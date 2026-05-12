@@ -63,8 +63,6 @@ A local-first, gamified productivity OS integrating a Gemini-powered AI pilot, l
 ---
  
 
----
-
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oumarmamounibrahim)
