@@ -65,9 +65,9 @@ A local-first, gamified productivity OS integrating a Gemini-powered AI pilot, l
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IamOumarIbrahim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamOumarIbrahim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" />
-</div>div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IamOumarIbrahim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamOumarIbrahim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6&hide=html,css" />
+</div
 
 ---
 
