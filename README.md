@@ -61,13 +61,7 @@ A local-first, gamified productivity OS integrating a Gemini-powered AI pilot, l
 **NVIDIA DLI** - AI for Anomaly Detection: XGBoost, Autoencoders, GANs (Nov 2024)
 
 ---
-
-### GitHub Stats
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IamOumarIbrahim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamOumarIbrahim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6&hide=html,css" />
-</div
+ 
 
 ---
 
