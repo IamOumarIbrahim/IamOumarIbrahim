@@ -2,9 +2,9 @@
 
 ### Computer Engineering Student | AI & Signal Processing Researcher
 
-I'm a Computer Engineering student (CGPA: 3.90/4.00, Dean's List x2) at the University of Sharjah and a RISE-funded Research Assistant working on UAV-enhanced Integrated Sensing and Communications (ISAC) and 5G/B5G networks. My work spans applied AI, digital signal processing, and full-stack software engineering.
+I'm a Computer Engineering student (CGPA: 3.91/4.00, Dean's List x2) at the University of Sharjah and a RISE-funded Research Assistant working on UAV-enhanced Integrated Sensing and Communications (ISAC) and 5G/B5G networks. My work spans applied AI, digital signal processing, and full-stack software engineering.
 
-Currently targeting a Summer 2026 internship in Applied AI or 5G/ISAC engineering.
+Currently targeting a Summer 2026 internship in telecommunications, signal processing, or radar to apply what I’ve been learning and contribute to impactful projects
 
 ---
 
