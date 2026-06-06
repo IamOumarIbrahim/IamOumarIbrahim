@@ -49,8 +49,6 @@ Currently seeking a **Summer 2026 engineering internship** in telecommunications
 
 ## 🚀 Featured Projects
 
-- [**🛰️ Adaptive Multi-UAV Radar Simulation Platform**](https://github.com/IamOumarIbrahim/adaptive-multi-uav)  
-  A Python-based simulation platform for SAR processing on multi-UAV networks, modeling FMCW transceivers, range-Doppler map generation, 2D CA-CFAR detection, DBSCAN clustering, and Kalman trajectory tracking.
 - [**🔊 Adaptive Noise Cancellation (NLMS) speech enhancement**](https://github.com/IamOumarIbrahim/adaptive-noise-cancellation-dsp)  
   An NLMS adaptive filtering script in MATLAB for speech enhancement under non-stationary noise. Achieved +5.14 dB SNR improvement and benchmarked against RLS and Kalman baselines.
 - [**📻 AM Radio Modulation & Demodulation transceiver**](https://github.com/IamOumarIbrahim/am-modulation-demodulation-matlab)  
@@ -61,8 +59,6 @@ Currently seeking a **Summer 2026 engineering internship** in telecommunications
   Simulation of a 367.85 kW DC roof-mounted PV system for the UOS Male Sports Complex using NREL's System Advisor Model (SAM), optimizing tilt/azimuth angles for a 629,127 kWh annual yield.
 - [**⚡ Video Compressor (GUI & CLI)**](https://github.com/IamOumarIbrahim/VideoCompressor)  
   A premium, open-source video compression utility with a sleek dark-themed Tkinter GUI, utilizing FFmpeg wrapper APIs to scale and fit large videos precisely into custom targets (e.g. 8MB/10MB/25MB).
-- [**🎨 Personal Portfolio Website**](https://github.com/IamOumarIbrahim/portfolio-website)  
-  My personal developer website built with React, Vite, and custom CSS, featuring glassmorphism and an interactive SVG radar sweep sweep-line background.
 
 ---
 
