@@ -116,7 +116,7 @@ Currently seeking **engineering opportunities** in telecommunications, radar sys
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=IamOumarIbrahim&show_icons=true&theme=catppuccin_mocha&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IamOumarIbrahim&layout=compact&theme=catppuccin_mocha&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IamOumarIbrahim&layout=compact&theme=catppuccin_mocha&hide_border=true&hide=javascript,css,html" width="48%" />
 </p>
 
 ---
