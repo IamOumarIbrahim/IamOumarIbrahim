@@ -36,14 +36,6 @@ Currently seeking **engineering opportunities** in telecommunications, radar sys
 
 ---
 
-## 🔬 Research Experience
-
-**Research Assistant — Wireless Communications (ISAC / 5G)**  
-*University of Sharjah | RISE Competitive Grant | Jan 2025 - Present*
-- Selected through a competitive university-wide RISE grant process to contribute to research on UAV-assisted Integrated Sensing and Communication (ISAC) for 5G/B5G network optimization.
-- Authored a comprehensive 30-source literature review benchmarking Massive MIMO detection algorithms (optimal, near-optimal, ML-based, and sparsity-based methods) to establish a MATLAB simulation baseline.
-
----
 
 ## 🚀 Featured Projects
 
