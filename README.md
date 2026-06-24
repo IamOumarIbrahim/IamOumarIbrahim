@@ -2,13 +2,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Computer_Engineering-Senior_Student-teal?style=for-the-badge&logo=academia" />
-  <img src="https://img.shields.io/badge/Research_Assistant-RISE_Grant-blue?style=for-the-badge&logo=academia" />
   <img src="https://img.shields.io/badge/Focus-DSP_|_Wireless_|_ISAC-orange?style=for-the-badge" />
 </div>
 
 <br />
 
-I'm a Computer Engineering senior student (CGPA: **3.91/4.00**, Dean's List x3) at the **University of Sharjah** and a RISE-funded Research Assistant working on UAV-assisted Integrated Sensing and Communications (ISAC) and 5G/B5G network optimizations. My academic and engineering experience spans wireless communications, digital signal processing, and hardware system designs.
+I'm a Computer Engineering senior student (CGPA: **3.91/4.00**, Dean's List x3) at the **University of Sharjah**. My academic and engineering experience spans wireless communications, digital signal processing, and hardware system designs.
 
 Currently seeking **engineering opportunities** in telecommunications, radar systems, DSP, or AI-enabled systems to apply my research and technical problem-solving capabilities to real-world infrastructure challenges.
 
