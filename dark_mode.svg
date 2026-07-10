@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1020px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1020px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">               .:::.:::  .:               </tspan>
+<tspan x="15" y="50">             :+:=+*%%+**%++:              </tspan>
+<tspan x="15" y="70">           :=*%%*%%@%@%***%*+.            </tspan>
+<tspan x="15" y="90">         .=*%%%%@%%@%@%*%**@@*=           </tspan>
+<tspan x="15" y="110">         =*@@%*%*+*%@@%*%++@@%+-..        </tspan>
+<tspan x="15" y="130">         +%@@@@%==*%%%@*%+=*%*%*-         </tspan>
+<tspan x="15" y="150">         -%%@@@+-:-==+++=+=+@%@%%:        </tspan>
+<tspan x="15" y="170">         -%@@@+::=**- .===-=@%@%+.        </tspan>
+<tspan x="15" y="190">         .*%%%..:=++. .*+=-:%@@@*-        </tspan>
+<tspan x="15" y="210">          :==+   ..    ...  +***-         </tspan>
+<tspan x="15" y="230">          .+-+    .:-:-.   .++*           </tspan>
+<tspan x="15" y="250">           :-:.   :-==-.   :-:.           </tspan>
+<tspan x="15" y="270">            :=:  .++***+= .:-             </tspan>
+<tspan x="15" y="290">             .*.....::....:               </tspan>
+<tspan x="15" y="310">               .::..:-:.:-.               </tspan>
+<tspan x="15" y="330">             .:.::-+***+=:..              </tspan>
+<tspan x="15" y="350">            -%. .::-+++-:. +=             </tspan>
+<tspan x="15" y="370">          -=+%   .:-=+=:.  .*+=.          </tspan>
+<tspan x="15" y="390">    .:-+*+++**:    .-=-:   -*+++*+:.      </tspan>
+<tspan x="15" y="410">:=**%********%=.     :     +**+**+++++=:. </tspan>
+<tspan x="15" y="430">+******+++****-.   ::--:   +*+*+++++++++++</tspan>
+<tspan x="15" y="450">++*+++*%+++***-.       ... +*+++++++++++++</tspan>
+<tspan x="15" y="470">+*+++=+**++****:..        :**++++++=+++=++</tspan>
+<tspan x="15" y="490">+*++++==*+++**%= .       .=**++=+++++++*++</tspan>
+<tspan x="15" y="510">+**++==++*++**%*:        :****+*****+++%+*</tspan>
+</text>
+<text x="430" y="30" fill="#c9d1d9">
+<tspan x="430" y="30">oumar@ibrahim -————————————————————————————————————————————-—-</tspan>
+<tspan x="430" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Linux, FreeRTOS</tspan></tspan>
+<tspan x="430" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Senior Year (CE @ UOS)</tspan></tspan>
+<tspan x="430" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">University of Sharjah</tspan></tspan>
+<tspan x="430" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">RISE Research Assistant (ISAC / 5G)</tspan></tspan>
+<tspan x="430" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">MATLAB, Quartus Prime, VS Code</tspan></tspan>
+<tspan x="430" y="150"><tspan class="cc">. </tspan></tspan>
+<tspan x="430" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">MATLAB, Python, C/C++, Assembly</tspan></tspan>
+<tspan x="430" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">VHDL, Verilog, Schematic Entry</tspan></tspan>
+<tspan x="430" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">English, Arabic</tspan></tspan>
+<tspan x="430" y="230"><tspan class="cc">. </tspan></tspan>
+<tspan x="430" y="250"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">DSP Simulations, UAV Path Planning</tspan></tspan>
+<tspan x="430" y="270"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">PCB Design, TTL Breadboarding</tspan></tspan>
+<tspan x="430" y="290"><tspan class="cc">. </tspan></tspan>
+<tspan x="430" y="310">- Contact -——————————————————————————————————————————————-—-</tspan>
+<tspan x="430" y="330"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">oumarmamoun10@hotmail.com</tspan></tspan>
+<tspan x="430" y="350"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">oumarmamounibrahim</tspan></tspan>
+<tspan x="430" y="370"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">IamOumarIbrahim</tspan></tspan>
+<tspan x="430" y="390"><tspan class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Sharjah, UAE</tspan></tspan>
+<tspan x="430" y="410"><tspan class="cc">. </tspan></tspan>
+<tspan x="430" y="430">- Academic &amp; GitHub Stats -———————————————————————————————————-—-</tspan>
+<tspan x="430" y="450"><tspan class="cc">. </tspan><tspan class="key">CGPA</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">3.91 / 4.00</tspan></tspan>
+<tspan x="430" y="470"><tspan class="cc">. </tspan><tspan class="key">Honors</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Dean&#39;s List x3</tspan></tspan>
+<tspan x="430" y="490"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">12</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">2</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="430" y="510"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">DSP | Wireless Communications | ISAC</tspan></tspan>
+</text>
+</svg>
