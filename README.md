@@ -37,6 +37,17 @@ A deep learning framework leveraging Selective State-Space Models (Mamba) to sim
 
 ---
 
+### [MeshyDownloader](https://github.com/IamOumarIbrahim/MeshyDownloader)
+*3D Model Extraction Utility for Meshy.ai Links*
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=flat-square&logo=python&logoColor=white)](https://github.com/IamOumarIbrahim/MeshyDownloader)
+[![GUI](https://img.shields.io/badge/GUI-Tkinter-teal.svg?style=flat-square)](https://github.com/IamOumarIbrahim/MeshyDownloader)
+[![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](https://github.com/IamOumarIbrahim/MeshyDownloader)
+
+An open-source utility designed to extract and download decrypted .glb 3D models directly from public Meshy.ai shared links via browser web worker interception.
+
+---
+
 ### [downloadcc](https://github.com/IamOumarIbrahim/downloadcc)
 *Terminal CLI for Media Search, Download & Wireless VLC Uploads*
 
