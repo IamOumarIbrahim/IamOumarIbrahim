@@ -1,75 +1,32 @@
-# Oumar Mamoun Ibrahim
+# Hi, I'm Oumar
 
-**Electrical & Computer Engineer** | **AI Systems & Signal Processing Researcher** | **Tooling Architect**
+Electrical & Computer Engineer building AI-integrated developer tools, engineering automation servers, and signal processing research systems. I design software that bridges AI agents with real-world engineering workflows.
 
----
+## What I'm working on
 
-## About
+- Unified MCP servers that let AI assistants drive CAD, EDA, and simulation tools (MATLAB, KiCad, SPICE, Fusion 360)
+- Visual node-based OS automation and multi-terminal management for local AI model orchestration
+- Selective State-Space Models (Mamba) for joint channel and target estimation in OFDM ISAC wireless systems
 
-- **Background:** Electrical & Computer Engineering focusing on signal processing, AI architectures, and engineering software automation.
-- **Research:** Selective State-Space Models (Mamba) for OFDM Integrated Sensing and Communication (ISAC) systems.
-- **Development:** Model Context Protocol (MCP) servers connecting AI agents with engineering CAD/EDA environments (MATLAB, KiCad, SPICE, Fusion 360).
-- **Focus:** Building high-performance developer tools, CLI utilities, and robust system pipelines.
+## Tech I work with
 
----
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-## Featured Projects
+## Featured projects
 
-### [MCPntt](https://github.com/IamOumarIbrahim/MCPntt)
-*Unified Engineering MCP Server for AI Environments*
+- **[MCPntt](https://github.com/IamOumarIbrahim/MCPntt)** -- Unified MCP server that gives AI agents direct control over MATLAB, KiCad, SPICE, Fusion 360, AutoCAD, Blender, and FreeCAD.
+- **[WokStation](https://github.com/IamOumarIbrahim/WokStation)** -- Multi-terminal manager for running and orchestrating local Eastern AI models (Qwen, Kimi, DeepSeek) side by side.
+- **[MacroWave](https://github.com/IamOumarIbrahim/MacroWave)** -- Visual, node-based automation environment for Windows that maps OS-level interactions without writing code.
+- **[mamba-isac](https://github.com/IamOumarIbrahim/mamba-isac)** -- Deep learning framework using Mamba state-space models for joint channel and target parameter estimation in ISAC systems.
+- **[downloadcc](https://github.com/IamOumarIbrahim/downloadcc)** -- Terminal CLI that searches and downloads media, then wirelessly uploads to VLC on iOS/Android over the local network.
+- **[MeshyDownloader](https://github.com/IamOumarIbrahim/MeshyDownloader)** -- Extracts and downloads decrypted .glb 3D models from public Meshy.ai links via browser web worker interception.
 
-[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg?style=flat-square&logo=python&logoColor=white)](https://github.com/IamOumarIbrahim/MCPntt)
-[![Protocol](https://img.shields.io/badge/Protocol-MCP-purple.svg?style=flat-square)](https://github.com/IamOumarIbrahim/MCPntt)
-[![Domain](https://img.shields.io/badge/Domain-CAD%20%2F%20EDA%20%2F%20Simulation-orange.svg?style=flat-square)](https://github.com/IamOumarIbrahim/MCPntt)
+## Get in touch
 
-A Model Context Protocol (MCP) server enabling AI assistants to control, simulate, and automate engineering software suites—including MATLAB, KiCad, SPICE, Fusion 360, AutoCAD, Blender, and FreeCAD.
-
----
-
-### [mamba-isac](https://github.com/IamOumarIbrahim/mamba-isac)
-*Selective State-Space Architecture for Joint Channel & Target Parameter Estimation in OFDM ISAC Systems*
-
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/IamOumarIbrahim/mamba-isac)
-[![Research](https://img.shields.io/badge/Research-Signal%20Processing%20%2F%20ISAC-blue.svg?style=flat-square)](https://github.com/IamOumarIbrahim/mamba-isac)
-[![Architecture](https://img.shields.io/badge/Model-Mamba%20SSM-green.svg?style=flat-square)](https://github.com/IamOumarIbrahim/mamba-isac)
-
-A deep learning framework leveraging Selective State-Space Models (Mamba) to simultaneously estimate channel parameters and target locations in Integrated Sensing and Communication (ISAC) wireless networks.
-
----
-
-### [MeshyDownloader](https://github.com/IamOumarIbrahim/MeshyDownloader)
-*3D Model Extraction Utility for Meshy.ai Links*
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=flat-square&logo=python&logoColor=white)](https://github.com/IamOumarIbrahim/MeshyDownloader)
-[![GUI](https://img.shields.io/badge/GUI-Tkinter-teal.svg?style=flat-square)](https://github.com/IamOumarIbrahim/MeshyDownloader)
-[![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](https://github.com/IamOumarIbrahim/MeshyDownloader)
-
-An open-source utility designed to extract and download decrypted .glb 3D models directly from public Meshy.ai shared links via browser web worker interception.
-
----
-
-### [downloadcc](https://github.com/IamOumarIbrahim/downloadcc)
-*Terminal CLI for Media Search, Download & Wireless VLC Uploads*
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=flat-square&logo=python&logoColor=white)](https://github.com/IamOumarIbrahim/downloadcc)
-[![CLI](https://img.shields.io/badge/Interface-Terminal%20CLI-teal.svg?style=flat-square)](https://github.com/IamOumarIbrahim/downloadcc)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/IamOumarIbrahim/downloadcc)
-
-An interactive terminal utility designed to search and download media content and transfer files directly over local networks to mobile devices (VLC for iOS/Android).
-
----
-
-## Technical Skills
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | Python, MATLAB, C++, JavaScript / TypeScript, SQL, Bash |
-| **AI & Data Science** | PyTorch, State-Space Models (Mamba), Gemini API, NumPy, SciPy |
-| **Engineering & EDA** | MATLAB / Simulink, KiCad, SPICE / LTspice, System Advisor Model (SAM), FreeCAD |
-| **Protocols & Systems** | Model Context Protocol (MCP), REST APIs, Git, Docker |
-
----
-
-## Contact
-
-- **GitHub:** [@IamOumarIbrahim](https://github.com/IamOumarIbrahim)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/oumar-ibrahim)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:omarbenzema50@gmail.com)
