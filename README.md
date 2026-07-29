@@ -1,6 +1,8 @@
-# Hi, I'm Oumar
+# Hi, I'm Oumar 🚀
 
-Electrical & Computer Engineer building AI-integrated developer tools, engineering automation servers, and signal processing research systems. I design software that bridges AI agents with real-world engineering workflows.
+Building **[MCPntt](https://github.com/IamOumarIbrahim/MCPntt)** (unified MCP server connecting AI agents to MATLAB, KiCad, SPICE & CAD) and AI-integrated developer & DSP research tools.
+
+Senior Electrical & Computer Engineer @ UoS. I design software that bridges AI agents with real-world engineering workflows.
 
 ## What I'm working on
 
