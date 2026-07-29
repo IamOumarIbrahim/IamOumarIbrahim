@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="assets/demo.gif" alt="Live Demo Animation" width="100%" />
+</p>
+
 <a href="https://github.com/IamOumarIbrahim/IamOumarIbrahim">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamOumarIbrahim/IamOumarIbrahim/main/dark_mode.svg">
