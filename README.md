@@ -1,11 +1,4 @@
-<a href="https://github.com/IamOumarIbrahim/IamOumarIbrahim">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamOumarIbrahim/IamOumarIbrahim/main/dark_mode.svg?v=3">
-    <img src="https://raw.githubusercontent.com/IamOumarIbrahim/IamOumarIbrahim/main/light_mode.svg?v=3" alt="Omar Ibrahim Profile Card">
-  </picture>
-</a>
-
-<br />
+# Omar Ibrahim
 
 > **Electrical & Computer Engineer** building open-source AI developer tooling, Model Context Protocol (MCP) integrations, and 6G / DSP signal processing research.
 
