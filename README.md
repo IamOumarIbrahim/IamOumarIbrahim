@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="assets/demo.gif" alt="Live Demo Animation" width="100%" />
-</p>
 
 <a href="https://github.com/IamOumarIbrahim/IamOumarIbrahim">
   <picture>
