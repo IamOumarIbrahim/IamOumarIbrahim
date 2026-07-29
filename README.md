@@ -1,7 +1,7 @@
 <a href="https://github.com/IamOumarIbrahim/IamOumarIbrahim">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamOumarIbrahim/IamOumarIbrahim/main/dark_mode.svg">
-    <img src="https://raw.githubusercontent.com/IamOumarIbrahim/IamOumarIbrahim/main/light_mode.svg" alt="Omar Ibrahim Profile Card">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamOumarIbrahim/IamOumarIbrahim/main/dark_mode.svg?v=3">
+    <img src="https://raw.githubusercontent.com/IamOumarIbrahim/IamOumarIbrahim/main/light_mode.svg?v=3" alt="Omar Ibrahim Profile Card">
   </picture>
 </a>
 
