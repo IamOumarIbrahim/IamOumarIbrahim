@@ -1,5 +1,3 @@
-# Omar Ibrahim
-
 > **Electrical & Computer Engineer** building open-source AI developer tooling, Model Context Protocol (MCP) integrations, and 6G / DSP signal processing research.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=flat-square&logo=python&logoColor=white)](https://python.org)
