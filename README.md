@@ -14,13 +14,13 @@
 
 ---
 
-> ⚡ **Currently building:** Model Context Protocol ([SpectraMCP](https://github.com/IamOumarIbrahim/SpectraMCP) & [interlock-mcp](https://github.com/IamOumarIbrahim/interlock-mcp)), Sequence Model Benchmarks ([rf-bench](https://github.com/IamOumarIbrahim/rf-bench)), Counter-UAS Radar ([counter-uas-fmcw-radar](https://github.com/IamOumarIbrahim/counter-uas-fmcw-radar)), & Geospatial Solar Analysis ([SolarScan](https://github.com/IamOumarIbrahim/SolarScan)).
+> **Currently building:** Model Context Protocol ([SpectraMCP](https://github.com/IamOumarIbrahim/SpectraMCP) & [interlock-mcp](https://github.com/IamOumarIbrahim/interlock-mcp)), Sequence Model Benchmarks ([rf-bench](https://github.com/IamOumarIbrahim/rf-bench)), Counter-UAS Radar ([counter-uas-fmcw-radar](https://github.com/IamOumarIbrahim/counter-uas-fmcw-radar)), & Geospatial Solar Analysis ([SolarScan](https://github.com/IamOumarIbrahim/SolarScan)).
 
 ---
 
-## 🏆 Flagship Open-Source Projects (S-Tier)
+## Flagship Open-Source Projects (S-Tier)
 
-### 🛰️ [SpectraMCP](https://github.com/IamOumarIbrahim/SpectraMCP)
+### [SpectraMCP](https://github.com/IamOumarIbrahim/SpectraMCP)
 > **Model Context Protocol Server for RF Signal Processing, SDR & Radar DSP**
 
 [![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/SpectraMCP?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/SpectraMCP)
@@ -28,7 +28,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 
 <details>
-<summary>📋 <strong>Quickstart & Claude Desktop Config</strong></summary>
+<summary><strong>Quickstart & Claude Desktop Config</strong></summary>
 
 ```json
 {
@@ -44,7 +44,7 @@
 
 ---
 
-### 🔒 [interlock-mcp](https://github.com/IamOumarIbrahim/interlock-mcp)
+### [interlock-mcp](https://github.com/IamOumarIbrahim/interlock-mcp)
 > **Zero-Trust Model Context Protocol (MCP) Server for CAD, EDA, & SPICE Tool Governance**
 
 [![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/interlock-mcp?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/interlock-mcp)
@@ -52,7 +52,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 
 <details>
-<summary>📋 <strong>Quickstart & Claude Desktop Config</strong></summary>
+<summary><strong>Quickstart & Claude Desktop Config</strong></summary>
 
 ```json
 {
@@ -68,7 +68,7 @@
 
 ---
 
-### 📊 [rf-bench](https://github.com/IamOumarIbrahim/rf-bench)
+### [rf-bench](https://github.com/IamOumarIbrahim/rf-bench)
 > **Standardized Benchmark Harness for Sequence Models across RF Signal Tasks**
 
 [![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/rf-bench?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/rf-bench)
@@ -76,9 +76,9 @@
 
 ---
 
-## 🚀 Specialized Engineering Systems (A-Tier)
+## Specialized Engineering Systems (A-Tier)
 
-### 📡 [counter-uas-fmcw-radar](https://github.com/IamOumarIbrahim/counter-uas-fmcw-radar)
+### [counter-uas-fmcw-radar](https://github.com/IamOumarIbrahim/counter-uas-fmcw-radar)
 > **FMCW Radar Signal Processing Pipeline with 2D CA-CFAR Detection, MVDR Jammer Nulling, and Micro-Doppler Classification**
 
 [![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/counter-uas-fmcw-radar?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/counter-uas-fmcw-radar)
@@ -86,7 +86,7 @@
 
 ---
 
-### ☀️ [SolarScan](https://github.com/IamOumarIbrahim/SolarScan)
+### [SolarScan](https://github.com/IamOumarIbrahim/SolarScan)
 > **End-to-End Rooftop Solar Feasibility Automation, Engineering PV System Sizing, & SAM Export Platform**
 
 [![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/SolarScan?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/SolarScan)
@@ -94,7 +94,7 @@
 [![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 <details>
-<summary>⚡ <strong>Quickstart & Usage</strong></summary>
+<summary><strong>Quickstart & Usage</strong></summary>
 
 ```bash
 git clone https://github.com/IamOumarIbrahim/SolarScan.git && cd SolarScan
@@ -104,14 +104,14 @@ pip install -r requirements.txt && python -m solarscan "Computer Science Departm
 
 ---
 
-## 🛠️ Developer Tooling & Academic Systems (B-Tier)
+## Developer Tooling & Academic Systems (B-Tier)
 
-* ⚡ **[skill-issue](https://github.com/IamOumarIbrahim/skill-issue)** — 4-pillar Claude skill suite for AST documentation (`readme-forge`), prompt engineering, code unrolling, and academic paper claim auditing (`reviewerzero`).
-* 🔒 **[interlock-mcp](https://github.com/IamOumarIbrahim/interlock-mcp)** — Zero-trust Model Context Protocol (MCP) server giving AI agents native, governed access to CAD, EDA, and SPICE tools.
+* **[skill-issue](https://github.com/IamOumarIbrahim/skill-issue)** — 4-pillar Claude skill suite for AST documentation (`readme-forge`), prompt engineering, code unrolling, and academic paper claim auditing (`reviewerzero`).
+* **[interlock-mcp](https://github.com/IamOumarIbrahim/interlock-mcp)** — Zero-trust Model Context Protocol (MCP) server giving AI agents native, governed access to CAD, EDA, and SPICE tools.
 
 ---
 
-## 🧰 Tech & Tooling Suite
+## Tech & Tooling Suite
 
 | Category | Tools & Technologies |
 | :--- | :--- |
