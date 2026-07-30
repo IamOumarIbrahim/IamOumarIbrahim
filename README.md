@@ -14,7 +14,7 @@
 
 ---
 
-> ⚡ **Currently building:** Model Context Protocol ([SpectraMCP](https://github.com/IamOumarIbrahim/SpectraMCP) & [MCPntt](https://github.com/IamOumarIbrahim/MCPntt)), AI Quality Suite ([skill-issue](https://github.com/IamOumarIbrahim/skill-issue)), & State-Space Models for 6G ISAC ([mamba-isac](https://github.com/IamOumarIbrahim/mamba-isac) & [rf-bench](https://github.com/IamOumarIbrahim/rf-bench)).
+> ⚡ **Currently building:** Model Context Protocol ([SpectraMCP](https://github.com/IamOumarIbrahim/SpectraMCP) & [MCPntt](https://github.com/IamOumarIbrahim/MCPntt)), AI Quality Suite ([skill-issue](https://github.com/IamOumarIbrahim/skill-issue)), & Rooftop Solar Analytics ([SolarScan](https://github.com/IamOumarIbrahim/SolarScan) & [rf-bench](https://github.com/IamOumarIbrahim/rf-bench)).
 
 ---
 
@@ -60,19 +60,19 @@ git clone https://github.com/IamOumarIbrahim/skill-issue.git ~/.claude/skills/sk
 
 ---
 
-### 🐍 [mamba-isac](https://github.com/IamOumarIbrahim/mamba-isac)
-> **Selective State-Space Architecture for 6G OFDM ISAC Channel Estimation**
+### ☀️ [SolarScan](https://github.com/IamOumarIbrahim/SolarScan)
+> **Automated Rooftop Solar Feasibility Reports from OpenStreetMap Building Footprints**
 
-[![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/mamba-isac?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/mamba-isac)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/SolarScan?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/SolarScan)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 <details>
-<summary>⚡ <strong>Quickstart & Evaluation</strong></summary>
+<summary>⚡ <strong>Quickstart & Usage</strong></summary>
 
 ```bash
-git clone https://github.com/IamOumarIbrahim/mamba-isac.git && cd mamba-isac
-pip install -r requirements.txt && python eval/evaluate_all.py
+git clone https://github.com/IamOumarIbrahim/SolarScan.git && cd SolarScan
+pip install -r requirements.txt && python -m solarscan "Computer Science Department W5 Sharjah"
 ```
 </details>
 
@@ -98,7 +98,6 @@ pip install -r requirements.txt && python eval/evaluate_all.py
 
 * 📡 **[counter-uas-fmcw-radar](https://github.com/IamOumarIbrahim/counter-uas-fmcw-radar)** — FMCW radar signal processing pipeline with 2D CA-CFAR detection, MVDR jammer nulling, and micro-Doppler classification.
 * 💓 **[agentpulse](https://github.com/IamOumarIbrahim/agentpulse)** — Real-time session logger, heartbeat health check, and live status monitor for autonomous AI agent networks.
-* ☀️ **[SolarScan](https://github.com/IamOumarIbrahim/SolarScan)** — Aerial imagery semantic segmentation pipeline identifying rooftop building footprints and solar PV suitability.
 * 🎓 **[ReviewerZero](https://github.com/IamOumarIbrahim/ReviewerZero)** — Academic paper citation and empirical claim auditor for pre-submission peer review.
 * 📈 **[BeliefTrack](https://github.com/IamOumarIbrahim/BeliefTrack)** — Extended Kalman Filter (EKF) and Bayesian state estimation framework tracking non-linear state trajectories.
 * 🖱️ **[contextforge](https://github.com/IamOumarIbrahim/contextforge)** — Dynamic Windows right-click shell context menu customizer linking shell actions to custom AI agent skills.
