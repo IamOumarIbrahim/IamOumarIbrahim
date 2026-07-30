@@ -100,7 +100,6 @@ pip install -r requirements.txt && python -m solarscan "Computer Science Departm
 * 💓 **[agentpulse](https://github.com/IamOumarIbrahim/agentpulse)** — Real-time session logger, heartbeat health check, and live status monitor for autonomous AI agent networks.
 * 🎓 **[ReviewerZero](https://github.com/IamOumarIbrahim/ReviewerZero)** — Academic paper citation and empirical claim auditor for pre-submission peer review.
 * 🖱️ **[contextforge](https://github.com/IamOumarIbrahim/contextforge)** — Dynamic Windows right-click shell context menu customizer linking shell actions to custom AI agent skills.
-* 📚 **[awesome-mcp-servers](https://github.com/IamOumarIbrahim/awesome-mcp-servers)** — Curated categorized index of Model Context Protocol (MCP) servers.
 
 ---
 
