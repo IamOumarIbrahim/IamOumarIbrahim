@@ -63,7 +63,7 @@
 ---
 
 ### ☀️ [SolarScan](https://github.com/IamOumarIbrahim/SolarScan)
-> **Automated Rooftop Solar Feasibility Reports from OpenStreetMap Building Footprints**
+> **End-to-End Rooftop Solar Feasibility Automation, Engineering PV System Sizing, & SAM Export Platform**
 
 [![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/SolarScan?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/SolarScan)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
@@ -82,8 +82,8 @@ pip install -r requirements.txt && python -m solarscan "Computer Science Departm
 
 ## 🛠️ Developer Tooling & Academic Systems (B-Tier)
 
-* 🎓 **[ReviewerZero](https://github.com/IamOumarIbrahim/ReviewerZero)** — Academic paper citation and empirical claim auditor for pre-submission peer review.
-* ⚡ **[skill-issue](https://github.com/IamOumarIbrahim/skill-issue)** — Unified Claude skill suite for AST documentation, prompt refinement & code unrolling.
+* ⚡ **[skill-issue](https://github.com/IamOumarIbrahim/skill-issue)** — 4-pillar Claude skill suite for AST documentation (`readme-forge`), prompt engineering, code unrolling, and academic paper claim auditing (`reviewerzero`).
+* 📻 **[dsp-toolbox](https://github.com/IamOumarIbrahim/dsp-toolbox)** — Consolidated MATLAB/Octave DSP suite covering adaptive filtering (NLMS), AM transceivers, channel models, speech processing, and OFDM.
 
 ---
 
