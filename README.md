@@ -23,8 +23,6 @@
 ### 🛰️ [SpectraMCP](https://github.com/IamOumarIbrahim/SpectraMCP)
 > **Model Context Protocol Server for RF Signal Processing, SDR & Radar DSP**
 
-Exposes fast DSP primitives, IQ data ingestion, 2D spectral FFT analysis, and SDR hardware control directly to Claude Desktop and AI coding agents.
-
 [![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/SpectraMCP?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/SpectraMCP)
 [![MCP Standard](https://img.shields.io/badge/MCP-1.0.0-7C3AED?style=flat-square)](https://modelcontextprotocol.io/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
@@ -49,8 +47,6 @@ Exposes fast DSP primitives, IQ data ingestion, 2D spectral FFT analysis, and SD
 ### ⚡ [skill-issue](https://github.com/IamOumarIbrahim/skill-issue)
 > **Unified Claude Skill Suite for AST Documentation, Prompt Refinement & Code Unrolling**
 
-Combines AST-driven static analysis to auto-generate publication-grade READMEs, diagnostic prompt engineering to eliminate model drift, and mechanical code restyling.
-
 [![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/skill-issue?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/skill-issue)
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill--Suite-D97706?style=flat-square&logo=anthropic&logoColor=white)](https://github.com/IamOumarIbrahim/skill-issue)
 
@@ -66,8 +62,6 @@ git clone https://github.com/IamOumarIbrahim/skill-issue.git ~/.claude/skills/sk
 
 ### 🐍 [mamba-isac](https://github.com/IamOumarIbrahim/mamba-isac)
 > **Selective State-Space Architecture for 6G OFDM ISAC Channel Estimation**
-
-PyTorch benchmarking framework evaluating Mamba (SSMs) against Transformers for joint channel and target parameter estimation in wireless communications.
 
 [![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/mamba-isac?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/mamba-isac)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
@@ -87,8 +81,6 @@ pip install -r requirements.txt && python eval/evaluate_all.py
 ### 🔌 [MCPntt](https://github.com/IamOumarIbrahim/MCPntt)
 > **Unified Model Context Protocol (MCP) Server for Desktop CAD, EDA & SPICE**
 
-Connects Claude Desktop, Antigravity, and autonomous AI agents directly to KiCad, FreeCAD, LTspice, and local workspace telemetry.
-
 [![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/MCPntt?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/MCPntt)
 [![MCP Standard](https://img.shields.io/badge/MCP-1.0.0-7C3AED?style=flat-square)](https://modelcontextprotocol.io/)
 
@@ -96,8 +88,6 @@ Connects Claude Desktop, Antigravity, and autonomous AI agents directly to KiCad
 
 ### 📊 [rf-bench](https://github.com/IamOumarIbrahim/rf-bench)
 > **Standardized Benchmark Harness for Sequence Models across RF Signal Tasks**
-
-Assesses Mamba (SSMs), Transformers, and RNN architectures on synthetic and empirical RF signal processing benchmarks under realistic channel noise.
 
 [![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/rf-bench?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/rf-bench)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
