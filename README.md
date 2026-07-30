@@ -14,7 +14,7 @@
 
 ---
 
-> ⚡ **Currently building:** Model Context Protocol ([SpectraMCP](https://github.com/IamOumarIbrahim/SpectraMCP)), Sequence Model Benchmarks ([rf-bench](https://github.com/IamOumarIbrahim/rf-bench)), Counter-UAS Radar ([counter-uas-fmcw-radar](https://github.com/IamOumarIbrahim/counter-uas-fmcw-radar)), & Geospatial Solar Analysis ([SolarScan](https://github.com/IamOumarIbrahim/SolarScan)).
+> ⚡ **Currently building:** Model Context Protocol ([SpectraMCP](https://github.com/IamOumarIbrahim/SpectraMCP) & [interlock-mcp](https://github.com/IamOumarIbrahim/interlock-mcp)), Sequence Model Benchmarks ([rf-bench](https://github.com/IamOumarIbrahim/rf-bench)), Counter-UAS Radar ([counter-uas-fmcw-radar](https://github.com/IamOumarIbrahim/counter-uas-fmcw-radar)), & Geospatial Solar Analysis ([SolarScan](https://github.com/IamOumarIbrahim/SolarScan)).
 
 ---
 
@@ -36,6 +36,30 @@
     "spectramcp": {
       "command": "uvx",
       "args": ["spectramcp"]
+    }
+  }
+}
+```
+</details>
+
+---
+
+### 🔒 [interlock-mcp](https://github.com/IamOumarIbrahim/interlock-mcp)
+> **Zero-Trust Model Context Protocol (MCP) Server for CAD, EDA, & SPICE Tool Governance**
+
+[![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/interlock-mcp?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/interlock-mcp)
+[![MCP Standard](https://img.shields.io/badge/MCP-1.0.0-7C3AED?style=flat-square)](https://modelcontextprotocol.io/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+
+<details>
+<summary>📋 <strong>Quickstart & Claude Desktop Config</strong></summary>
+
+```json
+{
+  "mcpServers": {
+    "interlock": {
+      "command": "uvx",
+      "args": ["interlock-mcp"]
     }
   }
 }
