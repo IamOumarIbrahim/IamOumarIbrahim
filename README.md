@@ -14,7 +14,7 @@
 
 ---
 
-> ⚡ **Currently building:** Model Context Protocol ([SpectraMCP](https://github.com/IamOumarIbrahim/SpectraMCP) & [MCPntt](https://github.com/IamOumarIbrahim/MCPntt)), AI Quality Suite ([skill-issue](https://github.com/IamOumarIbrahim/skill-issue)), & Rooftop Solar Analytics ([SolarScan](https://github.com/IamOumarIbrahim/SolarScan) & [rf-bench](https://github.com/IamOumarIbrahim/rf-bench)).
+> ⚡ **Currently building:** Model Context Protocol ([SpectraMCP](https://github.com/IamOumarIbrahim/SpectraMCP)), AI Quality Suite ([skill-issue](https://github.com/IamOumarIbrahim/skill-issue)), & Rooftop Solar Analytics ([SolarScan](https://github.com/IamOumarIbrahim/SolarScan) & [rf-bench](https://github.com/IamOumarIbrahim/rf-bench)).
 
 ---
 
@@ -76,13 +76,6 @@ pip install -r requirements.txt && python -m solarscan "Computer Science Departm
 ```
 </details>
 
----
-
-### 🔌 [MCPntt](https://github.com/IamOumarIbrahim/MCPntt)
-> **Unified Model Context Protocol (MCP) Server for Desktop CAD, EDA & SPICE**
-
-[![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/MCPntt?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/MCPntt)
-[![MCP Standard](https://img.shields.io/badge/MCP-1.0.0-7C3AED?style=flat-square)](https://modelcontextprotocol.io/)
 
 ---
 
