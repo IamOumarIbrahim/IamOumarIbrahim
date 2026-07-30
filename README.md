@@ -99,7 +99,6 @@ pip install -r requirements.txt && python -m solarscan "Computer Science Departm
 * 📡 **[counter-uas-fmcw-radar](https://github.com/IamOumarIbrahim/counter-uas-fmcw-radar)** — FMCW radar signal processing pipeline with 2D CA-CFAR detection, MVDR jammer nulling, and micro-Doppler classification.
 * 💓 **[agentpulse](https://github.com/IamOumarIbrahim/agentpulse)** — Real-time session logger, heartbeat health check, and live status monitor for autonomous AI agent networks.
 * 🎓 **[ReviewerZero](https://github.com/IamOumarIbrahim/ReviewerZero)** — Academic paper citation and empirical claim auditor for pre-submission peer review.
-* 🖱️ **[contextforge](https://github.com/IamOumarIbrahim/contextforge)** — Dynamic Windows right-click shell context menu customizer linking shell actions to custom AI agent skills.
 
 ---
 
