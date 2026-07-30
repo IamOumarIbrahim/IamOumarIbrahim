@@ -14,7 +14,7 @@
 
 ---
 
-> ⚡ **Currently building:** Model Context Protocol ([SpectraMCP](https://github.com/IamOumarIbrahim/SpectraMCP)), AI Quality Suite ([skill-issue](https://github.com/IamOumarIbrahim/skill-issue)), & Rooftop Solar Analytics ([SolarScan](https://github.com/IamOumarIbrahim/SolarScan) & [rf-bench](https://github.com/IamOumarIbrahim/rf-bench)).
+> ⚡ **Currently building:** Model Context Protocol ([SpectraMCP](https://github.com/IamOumarIbrahim/SpectraMCP)), Sequence Model Benchmarks ([rf-bench](https://github.com/IamOumarIbrahim/rf-bench)), Counter-UAS Radar ([counter-uas-fmcw-radar](https://github.com/IamOumarIbrahim/counter-uas-fmcw-radar)), & Geospatial Solar Analysis ([SolarScan](https://github.com/IamOumarIbrahim/SolarScan)).
 
 ---
 
@@ -44,19 +44,21 @@
 
 ---
 
-### ⚡ [skill-issue](https://github.com/IamOumarIbrahim/skill-issue)
-> **Unified Claude Skill Suite for AST Documentation, Prompt Refinement & Code Unrolling**
+### 📊 [rf-bench](https://github.com/IamOumarIbrahim/rf-bench)
+> **Standardized Benchmark Harness for Sequence Models across RF Signal Tasks**
 
-[![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/skill-issue?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/skill-issue)
-[![Claude Skill](https://img.shields.io/badge/Claude-Skill--Suite-D97706?style=flat-square&logo=anthropic&logoColor=white)](https://github.com/IamOumarIbrahim/skill-issue)
+[![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/rf-bench?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/rf-bench)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 
-<details>
-<summary>🚀 <strong>One-Command Installation</strong></summary>
+---
 
-```bash
-git clone https://github.com/IamOumarIbrahim/skill-issue.git ~/.claude/skills/skill-issue
-```
-</details>
+## 🚀 Specialized Engineering Systems (A-Tier)
+
+### 📡 [counter-uas-fmcw-radar](https://github.com/IamOumarIbrahim/counter-uas-fmcw-radar)
+> **FMCW Radar Signal Processing Pipeline with 2D CA-CFAR Detection, MVDR Jammer Nulling, and Micro-Doppler Classification**
+
+[![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/counter-uas-fmcw-radar?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/counter-uas-fmcw-radar)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 
 ---
 
@@ -76,22 +78,12 @@ pip install -r requirements.txt && python -m solarscan "Computer Science Departm
 ```
 </details>
 
-
 ---
 
-### 📊 [rf-bench](https://github.com/IamOumarIbrahim/rf-bench)
-> **Standardized Benchmark Harness for Sequence Models across RF Signal Tasks**
+## 🛠️ Developer Tooling & Academic Systems (B-Tier)
 
-[![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/rf-bench?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/rf-bench)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-
----
-
-## 🚀 Specialized Engineering Systems (A-Tier)
-
-* 📡 **[counter-uas-fmcw-radar](https://github.com/IamOumarIbrahim/counter-uas-fmcw-radar)** — FMCW radar signal processing pipeline with 2D CA-CFAR detection, MVDR jammer nulling, and micro-Doppler classification.
-* 💓 **[agentpulse](https://github.com/IamOumarIbrahim/agentpulse)** — Real-time session logger, heartbeat health check, and live status monitor for autonomous AI agent networks.
 * 🎓 **[ReviewerZero](https://github.com/IamOumarIbrahim/ReviewerZero)** — Academic paper citation and empirical claim auditor for pre-submission peer review.
+* ⚡ **[skill-issue](https://github.com/IamOumarIbrahim/skill-issue)** — Unified Claude skill suite for AST documentation, prompt refinement & code unrolling.
 
 ---
 
@@ -103,18 +95,6 @@ pip install -r requirements.txt && python -m solarscan "Computer Science Departm
 | **DSP & Communications** | `Python` `MATLAB` `6G ISAC` `FMCW Radar` `CA-CFAR` `Adaptive Filtering (NLMS)` `PySDR` |
 | **Hardware & EDA** | `KiCad` `LTspice` `FreeCAD` `Discrete TTL Logic (50+ ICs)` |
 | **Languages & Systems** | `Python` `C/C++` `MATLAB` `Bash` `Windows API` |
-
----
-
-<details>
-<summary>📚 <strong>Hardware & Educational Reference Portfolio</strong></summary>
-
-* **[ttl-vending-machine](https://github.com/IamOumarIbrahim/ttl-vending-machine)** — Discrete 50+ TTL IC hardware vending machine designed from scratch.
-* **[solar-pv-system-design](https://github.com/IamOumarIbrahim/solar-pv-system-design)** — Commercial solar PV system simulation using NREL SAM.
-* **[adaptive-noise-cancellation-dsp](https://github.com/IamOumarIbrahim/adaptive-noise-cancellation-dsp)** — MATLAB NLMS adaptive noise cancellation (+5.14 dB SNR boost).
-* **[am-modulation-demodulation-matlab](https://github.com/IamOumarIbrahim/am-modulation-demodulation-matlab)** — Transceiver simulation with coherent demodulation and 5th-order Butterworth filter.
-
-</details>
 
 ---
 
