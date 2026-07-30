@@ -20,7 +20,7 @@
 
 ## Flagship Research & Open-Source Stacks
 
-### 📡 [radar-rf-research-stack](https://github.com/IamOumarIbrahim/radar-rf-research-stack)
+### [radar-rf-research-stack](https://github.com/IamOumarIbrahim/radar-rf-research-stack)
 > **Unified Monorepo for FMCW Radar DSP Simulation, Selective State-Space (Mamba) ISAC Estimation, and Sequence-Model Benchmarking**
 
 [![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/radar-rf-research-stack?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/radar-rf-research-stack)
@@ -43,7 +43,7 @@ cd radar-rf-research-stack
 
 ---
 
-### 🛡️ [governed-agent-mcp-stack](https://github.com/IamOumarIbrahim/governed-agent-mcp-stack)
+### [governed-agent-mcp-stack](https://github.com/IamOumarIbrahim/governed-agent-mcp-stack)
 > **Zero-Trust Model Context Protocol (MCP) Server Suite for SDR/Radar DSP & CAD/SPICE Tool Governance**
 
 [![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/governed-agent-mcp-stack?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/governed-agent-mcp-stack)
@@ -77,7 +77,7 @@ cd radar-rf-research-stack
 
 ## Developer Tooling & Engineering Systems
 
-### 🧰 [SkillDeck](https://github.com/IamOumarIbrahim/SkillDeck)
+### [SkillDeck](https://github.com/IamOumarIbrahim/SkillDeck)
 > **Modular AI Agent & Developer Capability Suite for Automated Engineering Workflows**
 
 [![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/SkillDeck?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/SkillDeck)
@@ -89,7 +89,7 @@ cd radar-rf-research-stack
 
 ---
 
-### ☀️ [SolarScan](https://github.com/IamOumarIbrahim/SolarScan)
+### [SolarScan](https://github.com/IamOumarIbrahim/SolarScan)
 > **End-to-End Rooftop Solar Feasibility Automation & Engineering PV System Sizing Platform**
 
 [![Stars](https://img.shields.io/github/stars/IamOumarIbrahim/SolarScan?style=flat-square&color=10B981&logo=github)](https://github.com/IamOumarIbrahim/SolarScan)
