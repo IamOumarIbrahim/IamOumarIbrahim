@@ -106,7 +106,7 @@ pip install -r requirements.txt && python -m solarscan "Computer Science Departm
 
 ## Developer Tooling & Academic Systems (B-Tier)
 
-* **[skill-issue](https://github.com/IamOumarIbrahim/skill-issue)** — 4-pillar Claude skill suite for AST documentation (`readme-forge`), prompt engineering, code unrolling, and academic paper claim auditing (`reviewerzero`).
+* **[SkillDeck](https://github.com/IamOumarIbrahim/SkillDeck)** — 4-pillar Claude skill suite for AST documentation (`readme-forge`), prompt engineering, code unrolling, and academic paper claim auditing (`reviewerzero`).
 * **[interlock-mcp](https://github.com/IamOumarIbrahim/interlock-mcp)** — Zero-trust Model Context Protocol (MCP) server giving AI agents native, governed access to CAD, EDA, and SPICE tools.
 
 ---
