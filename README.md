@@ -117,9 +117,6 @@ pip install -r requirements.txt && python -m solarscan "Computer Science Departm
 <details>
 <summary>📚 <strong>Hardware & Educational Reference Portfolio</strong></summary>
 
-<br />
-
-* **[WokStation](https://github.com/IamOumarIbrahim/WokStation)** — Windows TUI orchestrating local offline AI coding models via Ollama.
 * **[ttl-vending-machine](https://github.com/IamOumarIbrahim/ttl-vending-machine)** — Discrete 50+ TTL IC hardware vending machine designed from scratch.
 * **[solar-pv-system-design](https://github.com/IamOumarIbrahim/solar-pv-system-design)** — Commercial solar PV system simulation using NREL SAM.
 * **[adaptive-noise-cancellation-dsp](https://github.com/IamOumarIbrahim/adaptive-noise-cancellation-dsp)** — MATLAB NLMS adaptive noise cancellation (+5.14 dB SNR boost).
