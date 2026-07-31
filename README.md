@@ -2,19 +2,19 @@
 
 <p align="left">
   <strong>Electrical & Computer Engineering Senior</strong> @ University of Sharjah<br />
-  Building zero-trust AI developer tooling (Model Context Protocol) & researching 6G DSP architectures.
+  Building zero-trust AI developer tooling (Model Context Protocol), an open-source AI video platform, & researching 6G DSP architectures.
 </p>
 
 <p align="left">
   <a href="https://linkedin.com/in/oumarmamounibrahim"><img src="https://img.shields.io/badge/LinkedIn-Oumar%20Ibrahim-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://orcid.org/0009-0008-0312-1605"><img src="https://img.shields.io/badge/ORCID-0009--0008--0312--1605-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <img src="https://img.shields.io/badge/Location-Sharjah%2C%20UAE-0F766E?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Tooling%20%7C%206G%20DSP-10B981?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Tooling%20%7C%206G%20DSP%20%7C%20AI%20Video-10B981?style=flat-square" alt="Focus" />
 </p>
 
 ---
 
-> **Currently building:** 6G Radar & RF Signal Processing Research ([radar-rf-research-stack](https://github.com/IamOumarIbrahim/radar-rf-research-stack)), Governed Agent MCP Infrastructure ([governed-agent-mcp-stack](https://github.com/IamOumarIbrahim/governed-agent-mcp-stack)), Developer Capability Tooling ([SkillDeck](https://github.com/IamOumarIbrahim/SkillDeck)), & Rooftop Solar Feasibility Automation ([SolarScan](https://github.com/IamOumarIbrahim/SolarScan)).
+> **Currently building:** 6G Radar & RF Signal Processing Research ([radar-rf-research-stack](https://github.com/IamOumarIbrahim/radar-rf-research-stack)), Governed Agent MCP Infrastructure ([governed-agent-mcp-stack](https://github.com/IamOumarIbrahim/governed-agent-mcp-stack)), an Open-Source AI Video Platform ([Pumblo](https://github.com/IamOumarIbrahim/pumblo)), Developer Capability Tooling ([SkillDeck](https://github.com/IamOumarIbrahim/SkillDeck)), & Rooftop Solar Feasibility Automation ([SolarScan](https://github.com/IamOumarIbrahim/SolarScan)).
 
 ---
 
@@ -75,6 +75,38 @@ cd radar-rf-research-stack
 
 ---
 
+## Consumer Platforms
+
+### [Pumblo](https://github.com/IamOumarIbrahim/pumblo)
+> **The YouTube of AI Video — Provenance-Verified, Human-Accountable, Open-Source**
+
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/IamOumarIbrahim/pumblo/blob/main/LICENSE)
+[![Status: Live](https://img.shields.io/badge/status-live-brightgreen?style=flat-square)](https://www.pumblo.ai)
+[![Built with Next.js](https://img.shields.io/badge/built%20with-Next.js-000000?style=flat-square&logo=next.js)](https://nextjs.org)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange?style=flat-square)](#)
+
+Live at **[pumblo.ai](https://www.pumblo.ai)** — every video is AI-generated, every account is a real verified human, and every ranking is earned, never bought.
+
+* **Provenance-first**: C2PA Content Credentials are validated at upload and preserved through re-encoding, instead of being reduced to a generic "may be AI" label.
+* **One human, one account**: email/password sign-up gated by a Proof-of-Humanity challenge (Cloudflare Turnstile) before any write access — no anonymous or bot accounts.
+* **Synthesis Quality Score (SQS)**: a transparent, weighted Discovery ranking formula (Technical Fidelity, Provenance Completeness, Human Engagement, Creator Trust, Freshness) that deliberately excludes raw watch-time and click-through.
+* **Upload anywhere**: browser Studio, REST API, or a one-line CLI (`pumblo upload`), all on the same metadata schema — built for individual creators and pipeline/batch uploaders alike.
+
+<details>
+<summary><strong>Quickstart (Self-Hosting)</strong></summary>
+
+```bash
+git clone https://github.com/IamOumarIbrahim/pumblo.git
+cd pumblo
+cp .env.example .env.local
+npm install
+npm run db:migrate
+npm run dev
+```
+</details>
+
+---
+
 ## Developer Tooling & Engineering Systems
 
 ### [SkillDeck](https://github.com/IamOumarIbrahim/SkillDeck)
@@ -116,8 +148,9 @@ pip install -r requirements.txt && python -m solarscan "Computer Science Departm
 | :--- | :--- |
 | **AI / ML & Agent Infrastructure** | `PyTorch` `Model Context Protocol (MCP)` `State-Space Models (Mamba)` `FastMCP` `OpenCV` |
 | **DSP & Communications** | `Python` `MATLAB` `6G ISAC` `FMCW Radar` `2D CA-CFAR` `MVDR` `Adaptive Filtering` `PySDR` |
+| **Web & Platform Infrastructure** | `Next.js` `TypeScript` `PostgreSQL` `Redis` `Cloudflare R2` `C2PA Content Credentials` |
 | **Hardware & EDA** | `KiCad` `LTspice` `FreeCAD` `Discrete TTL Logic (50+ ICs)` |
-| **Languages & Systems** | `Python` `C/C++` `MATLAB` `Bash` `Windows API` |
+| **Languages & Systems** | `Python` `C/C++` `MATLAB` `TypeScript` `Bash` `Windows API` |
 
 ---
 
