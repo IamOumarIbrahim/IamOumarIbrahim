@@ -14,7 +14,39 @@
 
 ---
 
-> **Currently building:** 6G Radar & RF Signal Processing Research ([radar-rf-research-stack](https://github.com/IamOumarIbrahim/radar-rf-research-stack)), Governed Agent MCP Infrastructure ([governed-agent-mcp-stack](https://github.com/IamOumarIbrahim/governed-agent-mcp-stack)), an Open-Source AI Video Platform ([Pumblo](https://github.com/IamOumarIbrahim/pumblo)), Developer Capability Tooling ([SkillDeck](https://github.com/IamOumarIbrahim/SkillDeck)), & Rooftop Solar Feasibility Automation ([SolarScan](https://github.com/IamOumarIbrahim/SolarScan)).
+> **Currently building:** an Open-Source AI Video Platform ([Pumblo](https://github.com/IamOumarIbrahim/pumblo)), 6G Radar & RF Signal Processing Research ([radar-rf-research-stack](https://github.com/IamOumarIbrahim/radar-rf-research-stack)), Governed Agent MCP Infrastructure ([governed-agent-mcp-stack](https://github.com/IamOumarIbrahim/governed-agent-mcp-stack)), Developer Capability Tooling ([SkillDeck](https://github.com/IamOumarIbrahim/SkillDeck)), & Rooftop Solar Feasibility Automation ([SolarScan](https://github.com/IamOumarIbrahim/SolarScan)).
+
+---
+
+## Consumer Platforms
+
+### [Pumblo](https://github.com/IamOumarIbrahim/pumblo)
+> **The YouTube of AI Video — Provenance-Verified, Human-Accountable, Open-Source**
+
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/IamOumarIbrahim/pumblo/blob/main/LICENSE)
+[![Status: Live](https://img.shields.io/badge/status-live-brightgreen?style=flat-square)](https://www.pumblo.ai)
+[![Built with Next.js](https://img.shields.io/badge/built%20with-Next.js-000000?style=flat-square&logo=next.js)](https://nextjs.org)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange?style=flat-square)](#)
+
+Live at **[pumblo.ai](https://www.pumblo.ai)** — every video is AI-generated, every account is a real verified human, and every ranking is earned, never bought.
+
+* **Provenance-first**: C2PA Content Credentials are validated at upload and preserved through re-encoding, instead of being reduced to a generic "may be AI" label.
+* **One human, one account**: email/password sign-up gated by a Proof-of-Humanity challenge (Cloudflare Turnstile) before any write access — no anonymous or bot accounts.
+* **Synthesis Quality Score (SQS)**: a transparent, weighted Discovery ranking formula (Technical Fidelity, Provenance Completeness, Human Engagement, Creator Trust, Freshness) that deliberately excludes raw watch-time and click-through.
+* **Upload anywhere**: browser Studio, REST API, or a one-line CLI (`pumblo upload`), all on the same metadata schema — built for individual creators and pipeline/batch uploaders alike.
+
+<details>
+<summary><strong>Quickstart (Self-Hosting)</strong></summary>
+
+```bash
+git clone https://github.com/IamOumarIbrahim/pumblo.git
+cd pumblo
+cp .env.example .env.local
+npm install
+npm run db:migrate
+npm run dev
+```
+</details>
 
 ---
 
@@ -70,38 +102,6 @@ cd radar-rf-research-stack
     }
   }
 }
-```
-</details>
-
----
-
-## Consumer Platforms
-
-### [Pumblo](https://github.com/IamOumarIbrahim/pumblo)
-> **The YouTube of AI Video — Provenance-Verified, Human-Accountable, Open-Source**
-
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/IamOumarIbrahim/pumblo/blob/main/LICENSE)
-[![Status: Live](https://img.shields.io/badge/status-live-brightgreen?style=flat-square)](https://www.pumblo.ai)
-[![Built with Next.js](https://img.shields.io/badge/built%20with-Next.js-000000?style=flat-square&logo=next.js)](https://nextjs.org)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange?style=flat-square)](#)
-
-Live at **[pumblo.ai](https://www.pumblo.ai)** — every video is AI-generated, every account is a real verified human, and every ranking is earned, never bought.
-
-* **Provenance-first**: C2PA Content Credentials are validated at upload and preserved through re-encoding, instead of being reduced to a generic "may be AI" label.
-* **One human, one account**: email/password sign-up gated by a Proof-of-Humanity challenge (Cloudflare Turnstile) before any write access — no anonymous or bot accounts.
-* **Synthesis Quality Score (SQS)**: a transparent, weighted Discovery ranking formula (Technical Fidelity, Provenance Completeness, Human Engagement, Creator Trust, Freshness) that deliberately excludes raw watch-time and click-through.
-* **Upload anywhere**: browser Studio, REST API, or a one-line CLI (`pumblo upload`), all on the same metadata schema — built for individual creators and pipeline/batch uploaders alike.
-
-<details>
-<summary><strong>Quickstart (Self-Hosting)</strong></summary>
-
-```bash
-git clone https://github.com/IamOumarIbrahim/pumblo.git
-cd pumblo
-cp .env.example .env.local
-npm install
-npm run db:migrate
-npm run dev
 ```
 </details>
 
