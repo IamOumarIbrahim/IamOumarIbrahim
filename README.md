@@ -16,6 +16,10 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 **[Green Spring Recycling](https://greenspringrecycling.ae/)** — iPad OCR & Diagnostics Suite
 Built a multi-threaded Python app using 4-engine consensus OCR with AI-powered fallbacks, reaching 97%+ accuracy reading metallic engravings on recycled inventory. Paired with offline USB diagnostics and a glare-free capture station I 3D-modeled in Blender, cutting inventory logging to under 2 seconds per item.
 
+## Education
+
+**[University of Sharjah](https://www.sharjah.ac.ae/)** — 3.91 CGPA (3/4 Years finished)
+
 ## Certifications
 
 [![NVIDIA DLI](https://img.shields.io/badge/NVIDIA_DLI-Jetson_Nano_AI-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=D1lmaNssSsq86y3RmVpmEQ)
