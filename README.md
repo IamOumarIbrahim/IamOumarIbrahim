@@ -28,10 +28,6 @@ Built a multi-threaded Python app using 4-engine consensus OCR with AI-powered f
 | Applications of AI for Anomaly Detection | Nov 2024 | `tsySqX7jSfWy5q22OMI6hw` |
 | Building LLM Applications With Prompt Engineering | Jul 2025 | `g-2IIRd1RO6ZWcYuaAXLtA` |
 
-## What I optimize for
-- **First value quickly:** a live demo, one-command run, or copyable quickstart near the top.
-- **Evidence over adjectives:** tests, reproducible outputs, and explicit limitations.
-- **Provenance and accountability:** AI-generated content and automated outputs should be traceable, not black-boxed.
-- **Engineering range:** Python and TypeScript across AI-generated media, developer tooling, and applied geospatial/energy reporting.
+
 
 If you are working on trustworthy AI media, developer tooling, or applied engineering reports, [connect with me on LinkedIn](https://www.linkedin.com/in/oumarmamounibrahim) or open a discussion in the relevant repository.
