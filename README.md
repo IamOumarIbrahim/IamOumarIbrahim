@@ -8,7 +8,6 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 | Project | What you can use it for | Fastest path |
 | :--- | :--- | :--- |
 | **[Pumblo](https://github.com/IamOumarIbrahim/pumblo)** | Browse and publish AI-generated films in a small, human-accountable video community | **[Open the live beta](https://pumblo-ai-video.oumaribrahim123.chatgpt.site)** |
-| **[SkillDeck](https://github.com/IamOumarIbrahim/SkillDeck)** | Install four tested Agent Skills for grounded READMEs, prompt contracts, code walkthroughs, and LaTeX claim checks | **[See the skill deck](https://iamoumaribrahim.github.io/SkillDeck/)** |
 | **[SolarScan](https://github.com/IamOumarIbrahim/SolarScan)** | Turn OpenStreetMap building footprints into rooftop solar feasibility and engineering reports | **[See the workflow](https://iamoumaribrahim.github.io/SolarScan/)** |
 
 ## Experience
