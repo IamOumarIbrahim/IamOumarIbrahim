@@ -13,7 +13,6 @@
 | :--- | :--- |
 | **[Pumblo AI Video](https://github.com/IamOumarIbrahim/pumblo-ai-video)** | A video platform to publish and watch verified AI-generated films. |
 | **[SolarScan Solar Analysis](https://github.com/IamOumarIbrahim/solarscan-solar-analysis)** | Automatically creates rooftop solar energy reports from map data. |
-| **[DSP Toolbox](https://github.com/IamOumarIbrahim/dsp-toolbox-matlab-octave)** | Simple tools for testing digital signals, radio transceivers, and radar. |
 
 ---
 
@@ -21,6 +20,7 @@
 
 | Repository | What It Does |
 | :--- | :--- |
+| **[DSP Toolbox](https://github.com/IamOumarIbrahim/dsp-toolbox-matlab-octave)** | Simple tools for testing digital signals, radio transceivers, and radar. |
 | **[Activity Keeper Simulator](https://github.com/IamOumarIbrahim/activity-keeper-desktop-simulator)** | Keeps your computer awake by simulating mouse movements. |
 | **[Pinterest Mass Downloader](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui)** | Fast tool to download full Pinterest boards, images, and videos. |
 | **[Meshy GLB Extractor](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor)** | One-click downloader for 3D models from Meshy.ai links. |
