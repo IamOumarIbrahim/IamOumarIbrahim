@@ -34,7 +34,7 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 
 ## 💼 Work Experience
 
-**[Green Spring Recycling](https://greenspringrecycling.ae/)** — *Software & Automation Engineering (Contract)*
+**[Green Spring Recycling](https://greenspringrecycling.ae/)** — *R&D Engineer (Intern)*
 - Engineered a multi-threaded Python desktop application using 4-engine consensus OCR with AI fallbacks, reaching 97%+ accuracy reading metallic engravings on recycled device inventory.
 - Integrated offline USB hardware diagnostics and custom 3D-modeled capture fixtures, cutting device inventory logging time to under 2 seconds per item.
 
