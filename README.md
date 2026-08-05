@@ -76,3 +76,5 @@
 ---
 
 If you are working on agent safety, trustworthy AI media, or applied signal processing, feel free to [connect on LinkedIn](https://www.linkedin.com/in/oumarmamounibrahim) or explore the open-source repositories above.
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IamOumarIbrahim&layout=compact&hide_title=true&langs_count=4&hide_values=true)](https://github-stats-extended.vercel.app/api/top-langs?username=IamOumarIbrahim&layout=compact&hide_title=true&langs_count=4&hide_values=true)
