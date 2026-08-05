@@ -1,7 +1,5 @@
 # Oumar Ibrahim
 
-Computer Engineering senior at the University of Sharjah (UAE). I build open-source tools for AI video, desktop automation, signal processing, and map analytics.
-
 <p>
   <a href="https://www.linkedin.com/in/oumarmamounibrahim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://orcid.org/0009-0008-0312-1605"><img src="https://img.shields.io/badge/ORCID-0009--0008--0312--1605-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
