@@ -13,24 +13,24 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 
 ## 🚀 Featured Projects & Flagship Applications
 
-| Repository | Software Stack & Purpose | Link |
-| :--- | :--- | :--- |
-| **[Pumblo AI Video](https://github.com/IamOumarIbrahim/pumblo-ai-video)** | Next.js & Node.js platform for publishing verifiably AI-generated video with C2PA content credentials and human-accountable accounts. | [Open Repository](https://github.com/IamOumarIbrahim/pumblo-ai-video) |
-| **[SolarScan Solar Analysis](https://github.com/IamOumarIbrahim/solarscan-solar-analysis)** | Python & Overpass API engine for generating automated rooftop solar PV pre-feasibility reports from OpenStreetMap building footprints. | [Open Repository](https://github.com/IamOumarIbrahim/solarscan-solar-analysis) |
-| **[DSP Toolbox](https://github.com/IamOumarIbrahim/dsp-toolbox-matlab-octave)** | MATLAB & GNU Octave educational suite implementing zero-dependency Digital Signal Processing (DSP) algorithms and wireless transceivers. | [Open Repository](https://github.com/IamOumarIbrahim/dsp-toolbox-matlab-octave) |
+| Repository | Software Stack & Purpose |
+| :--- | :--- |
+| **[Pumblo AI Video](https://github.com/IamOumarIbrahim/pumblo-ai-video)** | Next.js & Node.js platform for publishing verifiably AI-generated video with C2PA content credentials and human-accountable accounts. |
+| **[SolarScan Solar Analysis](https://github.com/IamOumarIbrahim/solarscan-solar-analysis)** | Python & Overpass API engine for generating automated rooftop solar PV pre-feasibility reports from OpenStreetMap building footprints. |
+| **[DSP Toolbox](https://github.com/IamOumarIbrahim/dsp-toolbox-matlab-octave)** | MATLAB & GNU Octave educational suite implementing zero-dependency Digital Signal Processing (DSP) algorithms and wireless transceivers. |
 
 ---
 
 ## 🛠️ Open-Source Utilities & Desktop Applications
 
-| Repository | Software Stack & Purpose | Link |
-| :--- | :--- | :--- |
-| **[Activity Keeper Simulator](https://github.com/IamOumarIbrahim/activity-keeper-desktop-simulator)** | Python & PyAutoGUI desktop utility for simulating workstation activity, preventing idle sleep states, and cycling application focus. | [Open Repository](https://github.com/IamOumarIbrahim/activity-keeper-desktop-simulator) |
-| **[Pinterest Mass Downloader](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui)** | Python & Tkinter application for multi-threaded bulk downloading of Pinterest images, videos, and GIFs by keyword or board URL. | [Open Repository](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui) |
-| **[Meshy GLB Extractor](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor)** | Python & WebSocket utility for extracting and downloading decrypted 3D GLB models from public Meshy.ai shared links. | [Open Repository](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor) |
-| **[Media Compressor FFmpeg](https://github.com/IamOumarIbrahim/media-compressor-ffmpeg-gui)** | Python & FFmpeg utility featuring a dual-pane GUI and CLI for compressing multi-format media to target file sizes. | [Open Repository](https://github.com/IamOumarIbrahim/media-compressor-ffmpeg-gui) |
-| **[JobFinder OSM Scanner](https://github.com/IamOumarIbrahim/jobfinder-osm-scanner)** | Python & CustomTkinter business directory scanner for automated lead generation using OpenStreetMap Overpass API. | [Open Repository](https://github.com/IamOumarIbrahim/jobfinder-osm-scanner) |
-| **[DownloadCC VLC Streamer](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer)** | Python & libtorrent CLI for searching, downloading media, and wirelessly streaming to VLC on iPad and iPhone. | [Open Repository](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer) |
+| Repository | Software Stack & Purpose |
+| :--- | :--- |
+| **[Activity Keeper Simulator](https://github.com/IamOumarIbrahim/activity-keeper-desktop-simulator)** | Python & PyAutoGUI desktop utility for simulating workstation activity, preventing idle sleep states, and cycling application focus. |
+| **[Pinterest Mass Downloader](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui)** | Python & Tkinter application for multi-threaded bulk downloading of Pinterest images, videos, and GIFs by keyword or board URL. |
+| **[Meshy GLB Extractor](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor)** | Python & WebSocket utility for extracting and downloading decrypted 3D GLB models from public Meshy.ai shared links. |
+| **[Media Compressor FFmpeg](https://github.com/IamOumarIbrahim/media-compressor-ffmpeg-gui)** | Python & FFmpeg utility featuring a dual-pane GUI and CLI for compressing multi-format media to target file sizes. |
+| **[JobFinder OSM Scanner](https://github.com/IamOumarIbrahim/jobfinder-osm-scanner)** | Python & CustomTkinter business directory scanner for automated lead generation using OpenStreetMap Overpass API. |
+| **[DownloadCC VLC Streamer](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer)** | Python & libtorrent CLI for searching, downloading media, and wirelessly streaming to VLC on iPad and iPhone. |
 
 ---
 
