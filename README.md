@@ -1,6 +1,6 @@
 # Oumar Ibrahim
 
-Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE. My work sits where AI-generated media provenance, developer tooling, signal processing, and applied engineering reports meet.
+Computer Engineering senior at the University of Sharjah (UAE). I build open-source tools for AI video, desktop automation, signal processing, and map analytics.
 
 <p>
   <a href="https://www.linkedin.com/in/oumarmamounibrahim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -11,24 +11,24 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 
 ## Featured Projects & Flagship Applications
 
-| Repository | Value Proposition |
+| Repository | What It Does |
 | :--- | :--- |
-| **[Pumblo AI Video](https://github.com/IamOumarIbrahim/pumblo-ai-video)** | Provenance-verified AI video publishing platform. |
-| **[SolarScan Solar Analysis](https://github.com/IamOumarIbrahim/solarscan-solar-analysis)** | Automated rooftop solar feasibility reports from OpenStreetMap. |
-| **[DSP Toolbox](https://github.com/IamOumarIbrahim/dsp-toolbox-matlab-octave)** | Zero-dependency signal processing and 6G ISAC suite. |
+| **[Pumblo AI Video](https://github.com/IamOumarIbrahim/pumblo-ai-video)** | A video platform to publish and watch verified AI-generated films. |
+| **[SolarScan Solar Analysis](https://github.com/IamOumarIbrahim/solarscan-solar-analysis)** | Automatically creates rooftop solar energy reports from map data. |
+| **[DSP Toolbox](https://github.com/IamOumarIbrahim/dsp-toolbox-matlab-octave)** | Simple tools for testing digital signals, radio transceivers, and radar. |
 
 ---
 
 ## Open-Source Utilities & Desktop Applications
 
-| Repository | Value Proposition |
+| Repository | What It Does |
 | :--- | :--- |
-| **[Activity Keeper Simulator](https://github.com/IamOumarIbrahim/activity-keeper-desktop-simulator)** | Simulates mouse/keyboard activity to prevent system sleep. |
-| **[Pinterest Mass Downloader](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui)** | Multi-threaded bulk downloader for Pinterest media. |
-| **[Meshy GLB Extractor](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor)** | 1-click extractor for 3D GLB models from Meshy.ai. |
-| **[Media Compressor FFmpeg](https://github.com/IamOumarIbrahim/media-compressor-ffmpeg-gui)** | Media compressor for exact target file sizes. |
-| **[JobFinder OSM Scanner](https://github.com/IamOumarIbrahim/jobfinder-osm-scanner)** | OpenStreetMap lead generator for local business outreach. |
-| **[DownloadCC VLC Streamer](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer)** | Media downloader and wireless iOS VLC streamer. |
+| **[Activity Keeper Simulator](https://github.com/IamOumarIbrahim/activity-keeper-desktop-simulator)** | Keeps your computer awake by simulating mouse movements. |
+| **[Pinterest Mass Downloader](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui)** | Fast tool to download full Pinterest boards, images, and videos. |
+| **[Meshy GLB Extractor](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor)** | One-click downloader for 3D models from Meshy.ai links. |
+| **[Media Compressor FFmpeg](https://github.com/IamOumarIbrahim/media-compressor-ffmpeg-gui)** | Easily shrinks video and audio files to any file size you choose. |
+| **[JobFinder OSM Scanner](https://github.com/IamOumarIbrahim/jobfinder-osm-scanner)** | Scans maps to find and collect local business contacts. |
+| **[DownloadCC VLC Streamer](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer)** | Downloads media and streams it wirelessly to VLC on your iPhone or iPad. |
 
 ---
 
