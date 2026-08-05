@@ -13,9 +13,9 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 
 | Repository | Value Proposition |
 | :--- | :--- |
-| **[Pumblo AI Video](https://github.com/IamOumarIbrahim/pumblo-ai-video)** | Creator-owned publishing platform for AI video featuring C2PA content provenance and human-verified accounts. |
-| **[SolarScan Solar Analysis](https://github.com/IamOumarIbrahim/solarscan-solar-analysis)** | Generates automated rooftop solar PV feasibility and engineering reports directly from OpenStreetMap building footprints. |
-| **[DSP Toolbox](https://github.com/IamOumarIbrahim/dsp-toolbox-matlab-octave)** | Zero-dependency signal processing suite implementing adaptive filtering, wireless transceivers, and 6G ISAC simulation. |
+| **[Pumblo AI Video](https://github.com/IamOumarIbrahim/pumblo-ai-video)** | Provenance-verified AI video publishing platform. |
+| **[SolarScan Solar Analysis](https://github.com/IamOumarIbrahim/solarscan-solar-analysis)** | Automated rooftop solar feasibility reports from OpenStreetMap. |
+| **[DSP Toolbox](https://github.com/IamOumarIbrahim/dsp-toolbox-matlab-octave)** | Zero-dependency signal processing and 6G ISAC suite. |
 
 ---
 
@@ -23,12 +23,12 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 
 | Repository | Value Proposition |
 | :--- | :--- |
-| **[Activity Keeper Simulator](https://github.com/IamOumarIbrahim/activity-keeper-desktop-simulator)** | Prevents workstation idle sleep states and cycles application focus by simulating organic mouse and keyboard activity. |
-| **[Pinterest Mass Downloader](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui)** | High-speed multi-threaded desktop app for bulk downloading Pinterest boards, images, videos, and animated GIFs. |
-| **[Meshy GLB Extractor](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor)** | Extracts and downloads decrypted 3D GLB mesh assets directly from public Meshy.ai shared links in one click. |
-| **[Media Compressor FFmpeg](https://github.com/IamOumarIbrahim/media-compressor-ffmpeg-gui)** | Dual-pane GUI and CLI utility for compressing multi-format media files to exact target size limits. |
-| **[JobFinder OSM Scanner](https://github.com/IamOumarIbrahim/jobfinder-osm-scanner)** | Automated lead generation scanner that ingests map coordinates to extract, filter, and export verified commercial business leads. |
-| **[DownloadCC VLC Streamer](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer)** | Command-line utility for searching, downloading media, and wirelessly streaming live playback to VLC on iOS devices. |
+| **[Activity Keeper Simulator](https://github.com/IamOumarIbrahim/activity-keeper-desktop-simulator)** | Simulates mouse/keyboard activity to prevent system sleep. |
+| **[Pinterest Mass Downloader](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui)** | Multi-threaded bulk downloader for Pinterest media. |
+| **[Meshy GLB Extractor](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor)** | 1-click extractor for 3D GLB models from Meshy.ai. |
+| **[Media Compressor FFmpeg](https://github.com/IamOumarIbrahim/media-compressor-ffmpeg-gui)** | Media compressor for exact target file sizes. |
+| **[JobFinder OSM Scanner](https://github.com/IamOumarIbrahim/jobfinder-osm-scanner)** | OpenStreetMap lead generator for local business outreach. |
+| **[DownloadCC VLC Streamer](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer)** | Media downloader and wireless iOS VLC streamer. |
 
 ---
 
