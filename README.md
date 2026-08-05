@@ -34,14 +34,11 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 
 ---
 
-## 🎓 Education & Research Experience
+## 🎓 Education
 
 **BSc in Computer Engineering (Senior)** — *University of Sharjah (UOS), Sharjah, UAE*
-- Focus on AI Infrastructure, 6G ISAC / RF Signal Processing, and Embedded Systems.
-
-**Research Assistant — Wireless Communications (ISAC / 5G)** — *Research Institute of Sciences & Engineering (RISE), University of Sharjah (Jan 2025 – Present)*
-- Selected through a competitive university-wide RISE grant process to contribute to research on UAV-assisted Integrated Sensing and Communication (ISAC) for 5G/B5G network optimization.
-- Authored literature reviews benchmarking Massive MIMO detection algorithms to establish MATLAB simulation baselines.
+- **GPA**: 3.91 / 4.0
+- **Specialization**: AI Infrastructure, 6G ISAC / RF Signal Processing, and Embedded Hardware Systems.
 
 ---
 
