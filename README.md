@@ -1,7 +1,5 @@
 # Oumar Ibrahim
 
-**I build trustworthy AI tools, desktop automation utilities, and reproducible engineering systems.**
-
 Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE. My work sits where AI-generated media provenance, developer tooling, signal processing, and applied engineering reports meet.
 
 <p>
@@ -11,7 +9,7 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 
 ---
 
-## 🚀 Featured Projects & Flagship Applications
+## Featured Projects & Flagship Applications
 
 | Repository | Software Stack & Purpose |
 | :--- | :--- |
@@ -21,7 +19,7 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 
 ---
 
-## 🛠️ Open-Source Utilities & Desktop Applications
+## Open-Source Utilities & Desktop Applications
 
 | Repository | Software Stack & Purpose |
 | :--- | :--- |
@@ -32,7 +30,9 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 | **[JobFinder OSM Scanner](https://github.com/IamOumarIbrahim/jobfinder-osm-scanner)** | Python & CustomTkinter business directory scanner for automated lead generation using OpenStreetMap Overpass API. |
 | **[DownloadCC VLC Streamer](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer)** | Python & libtorrent CLI for searching, downloading media, and wirelessly streaming to VLC on iPad and iPhone. |
 
-## 🎓 Education & Experience
+---
+
+## Education & Experience
 
 **BSc in Computer Engineering (Senior)** — *University of Sharjah (UOS), Sharjah, UAE*
 - **GPA**: 3.91 / 4.0
@@ -44,7 +44,7 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <p>
   <a href="https://learn.nvidia.com/certificates?id=D1lmaNssSsq86y3RmVpmEQ"><img src="https://img.shields.io/badge/NVIDIA_DLI-Jetson_Nano_AI-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA DLI Jetson Nano AI" /></a>
