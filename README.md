@@ -34,12 +34,13 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 
 ---
 
-## 🎯 Engineering Principles & Core Focus
+## 🎓 Education & Certifications
 
-- **First Value Quickly**: Every repository provides a runnable quickstart, live demo, or single-command installer near the top.
-- **Evidence Over Adjectives**: Built with automated test suites, reproducible outputs, and explicit technical documentation.
-- **Safe Desktop Automation**: Administrative privileges are verified, and global input automation includes instant fail-safe abort mechanisms.
-- **Full Spectrum Engineering**: Python, TypeScript, MATLAB, and C/C++ spanning AI media provenance, GIS spatial modeling, signal processing, and desktop GUI applications.
+| Degree / Credential | Institution / Provider | Focus & Specialization |
+| :--- | :--- | :--- |
+| **BSc in Computer Engineering** (Senior) | **University of Sharjah (UOS)** | AI Infrastructure, 6G ISAC / RF Signal Processing, and Embedded Systems. |
+| **RISE Research Assistantship** | **Research Institute of Sciences & Engineering (RISE)** | B5G / 6G Integrated Sensing and Communication (ISAC) & Mamba SSM research. |
+| **Professional Certifications & Training** | **IEEE & Industry Training** | Machine Learning, Signal Processing, and Software-Defined Radio (SDR). |
 
 ---
 
