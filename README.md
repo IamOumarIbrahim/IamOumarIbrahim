@@ -11,24 +11,24 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 
 ## Featured Projects & Flagship Applications
 
-| Repository | Software Stack & Purpose |
+| Repository | What It Does / Value Proposition |
 | :--- | :--- |
-| **[Pumblo AI Video](https://github.com/IamOumarIbrahim/pumblo-ai-video)** | Next.js & Node.js platform for publishing verifiably AI-generated video with C2PA content credentials and human-accountable accounts. |
-| **[SolarScan Solar Analysis](https://github.com/IamOumarIbrahim/solarscan-solar-analysis)** | Python & Overpass API engine for generating automated rooftop solar PV pre-feasibility reports from OpenStreetMap building footprints. |
-| **[DSP Toolbox](https://github.com/IamOumarIbrahim/dsp-toolbox-matlab-octave)** | MATLAB & GNU Octave educational suite implementing zero-dependency Digital Signal Processing (DSP) algorithms and wireless transceivers. |
+| **[Pumblo AI Video](https://github.com/IamOumarIbrahim/pumblo-ai-video)** | **The creator-owned platform for AI video.** Publish verifiably authentic AI-generated films with C2PA provenance and human-verified accounts. |
+| **[SolarScan Solar Analysis](https://github.com/IamOumarIbrahim/solarscan-solar-analysis)** | **Instant rooftop solar feasibility engine.** Turn any OpenStreetMap building footprint into professional engineering and PV potential reports in seconds. |
+| **[DSP Toolbox](https://github.com/IamOumarIbrahim/dsp-toolbox-matlab-octave)** | **Zero-dependency signal processing suite.** Hands-on implementations of adaptive filtering, wireless transceivers, and 6G ISAC simulation. |
 
 ---
 
 ## Open-Source Utilities & Desktop Applications
 
-| Repository | Software Stack & Purpose |
+| Repository | What It Does / Value Proposition |
 | :--- | :--- |
-| **[Activity Keeper Simulator](https://github.com/IamOumarIbrahim/activity-keeper-desktop-simulator)** | Python & PyAutoGUI desktop utility for simulating workstation activity, preventing idle sleep states, and cycling application focus. |
-| **[Pinterest Mass Downloader](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui)** | Python & Tkinter application for multi-threaded bulk downloading of Pinterest images, videos, and GIFs by keyword or board URL. |
-| **[Meshy GLB Extractor](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor)** | Python & WebSocket utility for extracting and downloading decrypted 3D GLB models from public Meshy.ai shared links. |
-| **[Media Compressor FFmpeg](https://github.com/IamOumarIbrahim/media-compressor-ffmpeg-gui)** | Python & FFmpeg utility featuring a dual-pane GUI and CLI for compressing multi-format media to target file sizes. |
-| **[JobFinder OSM Scanner](https://github.com/IamOumarIbrahim/jobfinder-osm-scanner)** | Python & CustomTkinter business directory scanner for automated lead generation using OpenStreetMap Overpass API. |
-| **[DownloadCC VLC Streamer](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer)** | Python & libtorrent CLI for searching, downloading media, and wirelessly streaming to VLC on iPad and iPhone. |
+| **[Activity Keeper Simulator](https://github.com/IamOumarIbrahim/activity-keeper-desktop-simulator)** | **Organic workstation activity simulator.** Prevents system idle sleep, cycles application focus, and mimics human presence with fail-safe controls. |
+| **[Pinterest Mass Downloader](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui)** | **Multi-threaded bulk Pinterest media scraper.** High-speed concurrent downloader for full boards, high-res images, videos, and animated GIFs. |
+| **[Meshy GLB Extractor](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor)** | **1-Click 3D GLB model extractor.** Extract and download decrypted 3D mesh assets directly from public Meshy.ai shared web links. |
+| **[Media Compressor FFmpeg](https://github.com/IamOumarIbrahim/media-compressor-ffmpeg-gui)** | **Precision target-size media compressor.** Shrink videos, audio, and documents to exact target megabyte limits without quality guesswork. |
+| **[JobFinder OSM Scanner](https://github.com/IamOumarIbrahim/jobfinder-osm-scanner)** | **Automated business lead generation scanner.** Ingest map coordinates to extract, filter, and export verified commercial business leads. |
+| **[DownloadCC VLC Streamer](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer)** | **Seamless media downloader & wireless iPad streamer.** Search, fetch media, and beam downloads wirelessly to VLC on iOS devices. |
 
 ---
 
