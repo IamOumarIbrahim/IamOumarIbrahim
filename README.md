@@ -38,12 +38,6 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 - Engineered a multi-threaded Python desktop application using 4-engine consensus OCR with AI fallbacks, reaching 97%+ accuracy reading metallic engravings on recycled device inventory.
 - Integrated offline USB hardware diagnostics and custom 3D-modeled capture fixtures, cutting device inventory logging time to under 2 seconds per item.
 
-**Ubik Labs** — *Senior Community Manager (May 2022 – Nov 2024)*
-- Managed community operations and data tracking for a six-figure Web3 platform, coordinating announcements, campaigns, and cross-team workflows for a community of 13,500+ members.
-
-**Freelance Graphic Designer** — *Remote (Dec 2019 – Feb 2022)*
-- Designed brand identity systems, social media assets, and digital visuals for MENA-region esports organizations (including Sudor Esports, 58K+ YouTube subscribers) and broadcast assets for live TV-streamed tournaments.
-
 ---
 
 ## 🎓 Education
