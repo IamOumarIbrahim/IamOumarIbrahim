@@ -32,19 +32,15 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 | **[JobFinder OSM Scanner](https://github.com/IamOumarIbrahim/jobfinder-osm-scanner)** | Python & CustomTkinter business directory scanner for automated lead generation using OpenStreetMap Overpass API. |
 | **[DownloadCC VLC Streamer](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer)** | Python & libtorrent CLI for searching, downloading media, and wirelessly streaming to VLC on iPad and iPhone. |
 
-## 💼 Work Experience
-
-**[Green Spring Recycling](https://greenspringrecycling.ae/)** — *R&D Engineer (Intern)*
-- Engineered a multi-threaded Python desktop application using 4-engine consensus OCR with AI fallbacks, reaching 97%+ accuracy reading metallic engravings on recycled device inventory.
-- Integrated offline USB hardware diagnostics and custom 3D-modeled capture fixtures, cutting device inventory logging time to under 2 seconds per item.
-
----
-
-## 🎓 Education
+## 🎓 Education & Experience
 
 **BSc in Computer Engineering (Senior)** — *University of Sharjah (UOS), Sharjah, UAE*
 - **GPA**: 3.91 / 4.0
 - **Specialization**: AI Infrastructure, 6G ISAC / RF Signal Processing, and Embedded Hardware Systems.
+
+**[Green Spring Recycling](https://greenspringrecycling.ae/)** — *R&D Engineer (Intern)*
+- Engineered a multi-threaded Python desktop application using 4-engine consensus OCR with AI fallbacks, reaching 97%+ accuracy reading metallic engravings on recycled device inventory.
+- Integrated offline USB hardware diagnostics and custom 3D-modeled capture fixtures, cutting device inventory logging time to under 2 seconds per item.
 
 ---
 
