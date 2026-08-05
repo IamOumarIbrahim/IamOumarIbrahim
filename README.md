@@ -1,32 +1,46 @@
 # Oumar Ibrahim
 
-**I build trustworthy AI tools and reproducible engineering systems.**
+**I build trustworthy AI tools, desktop automation utilities, and reproducible engineering systems.**
 
-Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE. My work sits where agent safety, developer tooling, signal processing, and useful open-source products meet.
+Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE. My work sits where agent safety, developer tooling, signal processing, and useful open-source applications meet.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumarmamounibrahim)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--0312--1605-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0312-1605)
+<p>
+  <a href="https://www.linkedin.com/in/oumarmamounibrahim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://orcid.org/0009-0008-0312-1605"><img src="https://img.shields.io/badge/ORCID-0009--0008--0312--1605-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+</p>
 
-## Start here
+---
 
-| Project | What you can use it for | Fastest path |
+## 🚀 Featured Projects & Flagship Applications
+
+| Repository | Software Stack & Purpose | Link |
 | :--- | :--- | :--- |
-| **[Pumblo](https://github.com/IamOumarIbrahim/pumblo)** | Browse and publish AI-generated films in a small, human-accountable video community | **[Open the live beta](https://pumblo-ai-video.oumaribrahim123.chatgpt.site)** |
-| **[Governed Agent MCP Stack](https://github.com/IamOumarIbrahim/governed-agent-mcp-stack)** | Put fail-closed policy decisions and tamper-evident local logs in front of risky agent tools | **[See the policy gate](https://iamoumaribrahim.github.io/governed-agent-mcp-stack/)** |
-| **[Radar & RF Research Stack](https://github.com/IamOumarIbrahim/radar-rf-research-stack)** | Explore hardware-free FMCW radar DSP, synthetic ISAC estimation, and RF sequence models | **[Browse the visual lab](https://iamoumaribrahim.github.io/radar-rf-research-stack/)** |
+| **[Pumblo AI Video](https://github.com/IamOumarIbrahim/pumblo-ai-video)** | Next.js & Node.js platform for publishing verifiably AI-generated video with C2PA content credentials and human-accountable accounts. | [Open Repository](https://github.com/IamOumarIbrahim/pumblo-ai-video) |
+| **[SolarScan Solar Analysis](https://github.com/IamOumarIbrahim/solarscan-solar-analysis)** | Python & Overpass API engine for generating automated rooftop solar PV pre-feasibility reports from OpenStreetMap building footprints. | [Open Repository](https://github.com/IamOumarIbrahim/solarscan-solar-analysis) |
+| **[DSP Toolbox](https://github.com/IamOumarIbrahim/dsp-toolbox-matlab-octave)** | MATLAB & GNU Octave educational suite implementing zero-dependency Digital Signal Processing (DSP) algorithms and wireless transceivers. | [Open Repository](https://github.com/IamOumarIbrahim/dsp-toolbox-matlab-octave) |
 
-## More useful projects
+---
 
-| Project | Outcome |
-| :--- | :--- |
-| **[SkillDeck](https://github.com/IamOumarIbrahim/SkillDeck)** | Install four tested Agent Skills for grounded READMEs, prompt contracts, code walkthroughs, and LaTeX claim checks. **[See the skill deck](https://iamoumaribrahim.github.io/SkillDeck/).** |
-| **[SolarScan](https://github.com/IamOumarIbrahim/SolarScan)** | Turn OpenStreetMap building footprints into rooftop solar feasibility and engineering reports. **[See the workflow](https://iamoumaribrahim.github.io/SolarScan/).** |
+## 🛠️ Open-Source Utilities & Desktop Applications
 
-## What I optimize for
+| Repository | Software Stack & Purpose | Link |
+| :--- | :--- | :--- |
+| **[Activity Keeper Simulator](https://github.com/IamOumarIbrahim/activity-keeper-desktop-simulator)** | Python & PyAutoGUI desktop utility for simulating workstation activity, preventing idle sleep states, and cycling application focus. | [Open Repository](https://github.com/IamOumarIbrahim/activity-keeper-desktop-simulator) |
+| **[Pinterest Mass Downloader](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui)** | Python & Tkinter application for multi-threaded bulk downloading of Pinterest images, videos, and GIFs by keyword or board URL. | [Open Repository](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui) |
+| **[Meshy GLB Extractor](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor)** | Python & WebSocket utility for extracting and downloading decrypted 3D GLB models from public Meshy.ai shared links. | [Open Repository](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor) |
+| **[Media Compressor FFmpeg](https://github.com/IamOumarIbrahim/media-compressor-ffmpeg-gui)** | Python & FFmpeg utility featuring a dual-pane GUI and CLI for compressing multi-format media to target file sizes. | [Open Repository](https://github.com/IamOumarIbrahim/media-compressor-ffmpeg-gui) |
+| **[JobFinder OSM Scanner](https://github.com/IamOumarIbrahim/jobfinder-osm-scanner)** | Python & CustomTkinter business directory scanner for automated lead generation using OpenStreetMap Overpass API. | [Open Repository](https://github.com/IamOumarIbrahim/jobfinder-osm-scanner) |
+| **[DownloadCC VLC Streamer](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer)** | Python & libtorrent CLI for searching, downloading media, and wirelessly streaming to VLC on iPad and iPhone. | [Open Repository](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer) |
 
-- **First value quickly:** a live demo, one-command run, or copyable quickstart near the top.
-- **Evidence over adjectives:** tests, reproducible outputs, and explicit limitations.
-- **Safe automation:** risky actions should be reviewable, attributable, and fail closed.
-- **Engineering range:** Python and TypeScript across AI agents, web products, RF/DSP, and energy systems.
+---
 
-If you are working on agent safety, trustworthy AI media, or applied signal processing, [connect with me on LinkedIn](https://www.linkedin.com/in/oumarmamounibrahim) or open a discussion in the relevant repository.
+## 🎯 Engineering Principles & Core Focus
+
+- **First Value Quickly**: Every repository provides a runnable quickstart, live demo, or single-command installer near the top.
+- **Evidence Over Adjectives**: Built with automated test suites, reproducible outputs, and explicit technical documentation.
+- **Safe Desktop Automation**: Administrative privileges are verified, and global input automation includes instant fail-safe abort mechanisms.
+- **Full Spectrum Engineering**: Python, TypeScript, MATLAB, and C/C++ spanning AI media provenance, GIS spatial modeling, signal processing, and desktop GUI applications.
+
+---
+
+If you are working on agent safety, trustworthy AI media, or applied signal processing, feel free to [connect on LinkedIn](https://www.linkedin.com/in/oumarmamounibrahim) or explore the open-source repositories above.
