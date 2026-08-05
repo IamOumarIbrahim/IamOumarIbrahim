@@ -1,7 +1,7 @@
 # Oumar Ibrahim
 **I build trustworthy AI tools and reproducible engineering systems.**
 Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE. My work sits where AI-generated media provenance, developer tooling, and applied engineering reports meet.
-[Download CV](https://drive.google.com/uc?export=download&id=1URY6fG94Lxvk85oxV9ip_gg_bub-uzWq)\
+[My CV](https://drive.google.com/file/d/1URY6fG94Lxvk85oxV9ip_gg_bub-uzWq/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumarmamounibrahim)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--0312--1605-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0312-1605)
 ## Projects
