@@ -2,7 +2,7 @@
 
 **I build trustworthy AI tools, desktop automation utilities, and reproducible engineering systems.**
 
-Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE. My work sits where agent safety, developer tooling, signal processing, and useful open-source applications meet.
+Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE. My work sits where AI-generated media provenance, developer tooling, signal processing, and applied engineering reports meet.
 
 <p>
   <a href="https://www.linkedin.com/in/oumarmamounibrahim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -34,13 +34,30 @@ Computer Engineering senior at the University of Sharjah, based in Sharjah, UAE.
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education & Research Experience
 
-| Degree / Credential | Institution / Provider | Focus & Specialization |
+**BSc in Computer Engineering (Senior)** — *University of Sharjah (UOS), Sharjah, UAE*
+- Focus on AI Infrastructure, 6G ISAC / RF Signal Processing, and Embedded Systems.
+
+**Research Assistant — Wireless Communications (ISAC / 5G)** — *Research Institute of Sciences & Engineering (RISE), University of Sharjah (Jan 2025 – Present)*
+- Selected through a competitive university-wide RISE grant process to contribute to research on UAV-assisted Integrated Sensing and Communication (ISAC) for 5G/B5G network optimization.
+- Authored literature reviews benchmarking Massive MIMO detection algorithms to establish MATLAB simulation baselines.
+
+---
+
+## 📜 Certifications
+
+<p>
+  <a href="https://learn.nvidia.com/certificates?id=D1lmaNssSsq86y3RmVpmEQ"><img src="https://img.shields.io/badge/NVIDIA_DLI-Jetson_Nano_AI-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA DLI Jetson Nano AI" /></a>
+  <a href="https://www.linkedin.com/in/oumarmamounibrahim/overlay/Certifications/425104153/treasury/?profileId=ACoAADeZhjcB5k497lN9b4JQOod-gl5o3T0t6uU"><img src="https://img.shields.io/badge/NVIDIA_DLI-Anomaly_Detection-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA DLI Anomaly Detection" /></a>
+  <a href="https://www.linkedin.com/in/oumarmamounibrahim/overlay/Certifications/425069820/treasury/?profileId=ACoAADeZhjcB5k497lN9b4JQOod-gl5o3T0t6uU"><img src="https://img.shields.io/badge/NVIDIA_DLI-LLM_Prompt_Engineering-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA DLI LLM Prompt Engineering" /></a>
+</p>
+
+| Certificate | Issued | Credential ID |
 | :--- | :--- | :--- |
-| **BSc in Computer Engineering** (Senior) | **University of Sharjah (UOS)** | AI Infrastructure, 6G ISAC / RF Signal Processing, and Embedded Systems. |
-| **RISE Research Assistantship** | **Research Institute of Sciences & Engineering (RISE)** | B5G / 6G Integrated Sensing and Communication (ISAC) & Mamba SSM research. |
-| **Professional Certifications & Training** | **IEEE & Industry Training** | Machine Learning, Signal Processing, and Software-Defined Radio (SDR). |
+| Getting Started with AI on Jetson Nano | Jun 2026 | `_SMMCkJuTvGTGRZ4HPswog` |
+| Applications of AI for Anomaly Detection | Nov 2024 | `tsySqX7jSfWy5q22OMI6hw` |
+| Building LLM Applications With Prompt Engineering | Jul 2025 | `g-2IIRd1RO6ZWcYuaAXLtA` |
 
 ---
 
