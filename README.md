@@ -13,7 +13,7 @@
 | :--- | :--- |
 | **[Pumblo AI Video](https://github.com/IamOumarIbrahim/pumblo-ai-video)** | A video platform to publish and watch verified AI-generated films. |
 | **[SolarScan Solar Analysis](https://github.com/IamOumarIbrahim/solarscan-solar-analysis)** | Automatically creates rooftop solar energy reports from map data. |
-| **[Manar SAR drone](https://github.com/IamOumarIbrahim/manar-search-rescue-drone)** | Supervised-autonomy multisensor drone system for search, rescuee detection, verification, and location guidance. |
+| **[Manar SAR drone](https://github.com/IamOumarIbrahim/manar-search-rescue-drone)** | Supervised-autonomy for search and rescue. |
 
 ---
 
