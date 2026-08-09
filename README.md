@@ -21,6 +21,7 @@
 
 | Repository | What It Does |
 | :--- | :--- |
+| **[Macroblock Visual Automation](https://github.com/IamOumarIbrahim/macroblock)** | Visual Windows automation tool to build desktop workflows by snapping blocks together. |
 | **[DownloadCC VLC Streamer](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer)** | Downloads media and streams it wirelessly to VLC on your iPhone or iPad. |
 | **[Meshy GLB Extractor](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor)** | One-click downloader for 3D models from Meshy.ai links. |
 | **[JobFinder OSM Scanner](https://github.com/IamOumarIbrahim/jobfinder-osm-scanner)** | Scans maps to find and collect local business contacts. |
