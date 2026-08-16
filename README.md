@@ -12,6 +12,7 @@
 | Demo | Repository | What It Does |
 | :---: | :--- | :--- |
 | <a href="https://github.com/IamOumarIbrahim/pumblo-ai-video"><img src="assets/pumblo_demo.png" width="180" alt="Pumblo AI Video" /></a> | **[Pumblo AI Video](https://github.com/IamOumarIbrahim/pumblo-ai-video)** | A video platform to publish and watch verified AI-generated films. |
+| <a href="https://github.com/IamOumarIbrahim/DMS-Eval"><img src="assets/dmseval_demo.png" width="180" alt="DMS-Eval" /></a> | **[DMS-Eval](https://github.com/IamOumarIbrahim/DMS-Eval)** | Standardized benchmark evaluating real-time nano-scale object detectors for driver state monitoring. |
 | <a href="https://github.com/IamOumarIbrahim/solarscan-solar-analysis"><img src="assets/solarscan_demo.png" width="180" alt="SolarScan Solar Analysis" /></a> | **[SolarScan Solar Analysis](https://github.com/IamOumarIbrahim/solarscan-solar-analysis)** | Automatically creates rooftop solar energy reports from map data. |
 | <a href="https://github.com/IamOumarIbrahim/manar-search-rescue-drone"><img src="assets/manar_demo.png" width="180" alt="Manar SAR drone" /></a> | **[Manar SAR drone](https://github.com/IamOumarIbrahim/manar-search-rescue-drone)** | Supervised-autonomy for search and rescue. |
 
