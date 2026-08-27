@@ -1,69 +1,44 @@
-# Oumar Ibrahim
+﻿# Oumar Ibrahim
 
 <p>
   <a href="https://www.linkedin.com/in/oumarmamounibrahim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://orcid.org/0009-0008-0312-1605"><img src="https://img.shields.io/badge/ORCID-0009--0008--0312--1605-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </p>
 
----
-
-## Featured Projects & Flagship Applications
-
-| Demo | Repository | What It Does |
-| :---: | :--- | :--- |
-| <a href="https://github.com/IamOumarIbrahim/pumblo-ai-video"><img src="assets/pumblo_demo.png" width="180" alt="Pumblo AI Video" /></a> | **[Pumblo AI Video](https://github.com/IamOumarIbrahim/pumblo-ai-video)** | A video platform to publish and watch verified AI-generated films. |
-| <a href="https://github.com/IamOumarIbrahim/DMS-Eval"><img src="assets/dmseval_demo.png" width="180" alt="DMS-Eval" /></a> | **[DMS-Eval](https://github.com/IamOumarIbrahim/DMS-Eval)** | Standardized benchmark evaluating real-time nano-scale object detectors for driver state monitoring. |
-| <a href="https://github.com/IamOumarIbrahim/solarscan-solar-analysis"><img src="assets/solarscan_demo.png" width="180" alt="SolarScan Solar Analysis" /></a> | **[SolarScan Solar Analysis](https://github.com/IamOumarIbrahim/solarscan-solar-analysis)** | Automatically creates rooftop solar energy reports from map data. |
-| <a href="https://github.com/IamOumarIbrahim/manar-search-rescue-drone"><img src="assets/manar_demo.png" width="180" alt="Manar SAR drone" /></a> | **[Manar SAR drone](https://github.com/IamOumarIbrahim/manar-search-rescue-drone)** | Supervised-autonomy for search and rescue. |
+Computer Engineering researcher and software systems engineer focusing on applied signal processing, edge machine learning, reproducible benchmarks, and reliable automation tools.
 
 ---
 
-## Open-Source Utilities & Desktop Applications
+## Notable Repositories
 
-| Demo | Repository | What It Does |
-| :---: | :--- | :--- |
-| <a href="https://github.com/IamOumarIbrahim/macroblock-visual-automation"><img src="assets/macroblock_demo.png" width="180" alt="Macroblock Visual Automation" /></a> | **[Macroblock Visual Automation](https://github.com/IamOumarIbrahim/macroblock-visual-automation)** | Visual Windows automation tool to build desktop workflows by snapping blocks together. |
-| <a href="https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer"><img src="assets/downloadcc_demo.gif" width="180" alt="DownloadCC VLC Streamer" /></a> | **[DownloadCC VLC Streamer](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer)** | Downloads media and streams it wirelessly to VLC on your iPhone or iPad. |
-| <a href="https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor"><img src="assets/meshy_demo.gif" width="180" alt="Meshy GLB Extractor" /></a> | **[Meshy GLB Extractor](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor)** | One-click downloader for 3D models from Meshy.ai links. |
-| <a href="https://github.com/IamOumarIbrahim/jobfinder-osm-scanner"><img src="assets/jobfinder_demo.gif" width="180" alt="JobFinder OSM Scanner" /></a> | **[JobFinder OSM Scanner](https://github.com/IamOumarIbrahim/jobfinder-osm-scanner)** | Scans maps to find and collect local business contacts. |
-| <a href="https://github.com/IamOumarIbrahim/activity-keeper-desktop-simulator"><img src="assets/Activity_keeper.png" width="180" alt="Activity Keeper Simulator" /></a> | **[Activity Keeper Simulator](https://github.com/IamOumarIbrahim/activity-keeper-desktop-simulator)** | Keeps your computer awake by simulating mouse movements. |
-| <a href="https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui"><img src="assets/pinterest_demo.gif" width="180" alt="Pinterest Mass Downloader" /></a> | **[Pinterest Mass Downloader](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui)** | Fast tool to download full Pinterest boards, images, and videos. |
-| <a href="https://github.com/IamOumarIbrahim/media-compressor-ffmpeg-gui"><img src="assets/media_compressor_demo.gif" width="180" alt="Media Compressor FFmpeg" /></a> | **[Media Compressor FFmpeg](https://github.com/IamOumarIbrahim/media-compressor-ffmpeg-gui)** | Easily shrinks video and audio files to any file size you choose. |
+| Repository | Focus Area | Description |
+| :--- | :--- | :--- |
+| **[class-watcher-uos](https://github.com/IamOumarIbrahim/class-watcher-uos)** | Public Utility / Automation | Real-time course seat monitor for University of Sharjah registration with instant phone push, Windows toasts, email alerts, and a standalone 1-click installer. |
+| **[lightweight-driver-behavior-detection](https://github.com/IamOumarIbrahim/lightweight-driver-behavior-detection)** | Edge AI / Computer Vision | Benchmark of lightweight object detection architectures for real-time driver state monitoring under a strict subject-disjoint evaluation protocol. |
+| **[mmwave-pose-physics](https://github.com/IamOumarIbrahim/mmwave-pose-physics)** | Radar / Signal Processing | Controlled evaluation of accuracy, calibration, and selective prediction for lightweight (<5M parameter) mmWave human-pose estimation under signal degradation. |
+| **[manar-search-rescue-drone](https://github.com/IamOumarIbrahim/manar-search-rescue-drone)** | Robotics / Sensor Fusion | Supervised-autonomy multisensor search-and-rescue drone combining RGB/IR/thermal vision, FMCW radar, passive RF, audio, and temporal sensor fusion. |
+| **[macroblock-visual-automation](https://github.com/IamOumarIbrahim/macroblock-visual-automation)** | Desktop Automation / Systems | Visual Windows desktop automation environment allowing users to construct complex system workflows by snapping functional blocks together, with a global abort hotkey. |
 
 ---
 
-## Tech Stack & Tools
+## Technical Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/GNU_Octave-079101?style=flat-square&logo=gnuoctave&logoColor=white" alt="GNU Octave" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Qt_PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt / PySide6" />
   <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" alt="Tkinter" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini AI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
-  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-If you are working on agent safety, trustworthy AI media, or applied signal processing, feel free to [connect on LinkedIn](https://www.linkedin.com/in/oumarmamounibrahim) or explore the open-source repositories above.
+If you are working on edge AI, radar perception, or applied signal processing, feel free to [connect on LinkedIn](https://www.linkedin.com/in/oumarmamounibrahim).
