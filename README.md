@@ -6,6 +6,7 @@
 </p>
 
 Oumar Ibrahim is a senior computer engineering student at the University of Sharjah (3.91 CGPA) researching lightweight, multi-modal sensing for Driver Monitoring Systems, including a conference paper benchmarking RGB detectors and an eight-model NIR study, and for MANAR, a Search-and-Rescue drone system that fuses RGB, NIR, thermal, RF, and mmWave sensing via Selective State Space Models like Mamba.
+
 ---
 
 ## Notable Repositories
