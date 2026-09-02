@@ -5,10 +5,7 @@
   <a href="https://orcid.org/0009-0008-0312-1605"><img src="https://img.shields.io/badge/ORCID-0009--0008--0312--1605-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </p>
 
-Oumar Ibrahim is a senior computer engineering student at the University of Sharjah, maintaining a 3.91 CGPA. His research focuses on lightweight computer vision for edge deployment in Driver Monitoring Systems (DMS). He has authored a conference paper benchmarking three lightweight object detectors on RGB datasets for driver-cue localization, alongside exploratory studies on NIR datasets and the effects of varying negative-to-positive sample ratios during model training.
-
-His work also extends into Search-and-Rescue (SAR) Supervised-Autonomy Drone Systems, where he uses multi-sensor fusion, combining RGB, NIR, thermal imaging, radio frequency, and mmWave detection, through Selective State Space Models (SSSMs) such as Mamba to develop the Multisensor Aerial Navigation and Rescue (MANAR) system.
-
+Oumar Ibrahim is a senior computer engineering student at the University of Sharjah (3.91 CGPA) researching lightweight, multi-modal sensing for Driver Monitoring Systems, including a conference paper benchmarking RGB detectors and an eight-model NIR study, and for MANAR, a Search-and-Rescue drone system that fuses RGB, NIR, thermal, RF, and mmWave sensing via Selective State Space Models like Mamba.
 ---
 
 ## Notable Repositories
