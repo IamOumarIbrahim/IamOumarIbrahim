@@ -1,44 +1,29 @@
-# Oumar Ibrahim
+# Oumar Mamoun Ibrahim
 
-<p>
-  <a href="https://www.linkedin.com/in/oumarmamounibrahim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://orcid.org/0009-0008-0312-1605"><img src="https://img.shields.io/badge/ORCID-0009--0008--0312--1605-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
-</p>
+Senior computer engineering student at the University of Sharjah (3.91 CGPA). I build lightweight, multi-sensor perception for edge devices and test it on data the model has never seen.
 
-Oumar Ibrahim is a senior computer engineering student at the University of Sharjah (3.91 CGPA) researching lightweight, multi-modal sensing for Driver Monitoring Systems, including a conference paper benchmarking RGB detectors and an eight-model NIR study, and for MANAR, a Search-and-Rescue drone system that fuses RGB, NIR, thermal, RF, and mmWave sensing via Selective State Space Models like Mamba.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumarmamounibrahim) [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--0312--1605-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0312-1605)
 
----
+## Research
 
-## Notable Repositories
+- **Aerial search and rescue.** RGB and thermal person detection for UAVs, with causal temporal post-processing to reduce false alerts. **Accepted at ICSPIS 2026** (Dubai, 10–12 November).
+- **Driver monitoring.** A subject-disjoint benchmark of lightweight detectors on RGB and near-infrared video. **Conditionally accepted at CAISAIS 2026**; revision in progress.
+- **MANAR.** A supervised-autonomy search-and-rescue drone. The C++ control core and edge person detector are built; temporal multisensor fusion is the next milestone.
 
-| Repository | Focus Area | Description |
-| :--- | :--- | :--- |
-| **[class-watcher-uos](https://github.com/IamOumarIbrahim/class-watcher-uos)** | Public Utility / Automation | Real-time course seat monitor for University of Sharjah registration with instant phone push, Windows toasts, email alerts, and a standalone 1-click installer. |
-| **[lightweight-driver-behavior-detection](https://github.com/IamOumarIbrahim/lightweight-driver-behavior-detection)** | Edge AI / Computer Vision | Benchmark of lightweight object detection architectures for real-time driver state monitoring under a strict subject-disjoint evaluation protocol. |
-| **[mmwave-pose-physics](https://github.com/IamOumarIbrahim/mmwave-pose-physics)** | Radar / Signal Processing | Controlled evaluation of accuracy, calibration, and selective prediction for lightweight (<5M parameter) mmWave human-pose estimation under signal degradation. |
-| **[manar-search-rescue-drone](https://github.com/IamOumarIbrahim/manar-search-rescue-drone)** | Robotics / Sensor Fusion | Supervised-autonomy multisensor search-and-rescue drone combining RGB/IR/thermal vision, FMCW radar, passive RF, audio, and temporal sensor fusion. |
-| **[macroblock-visual-automation](https://github.com/IamOumarIbrahim/macroblock-visual-automation)** | Desktop Automation / Systems | Visual Windows desktop automation environment allowing users to construct complex system workflows by snapping functional blocks together, with a global abort hotkey. |
+## Selected projects
 
----
+| Project | Area | What it is |
+| --- | --- | --- |
+| [multi-modal-detection](https://github.com/IamOumarIbrahim/multi-modal-detection) | Edge AI / UAV perception | RGB and thermal person detection with temporal post-processing for aerial search and rescue. Apache-2.0. |
+| [lightweight-driver-behavior-detection](https://github.com/IamOumarIbrahim/lightweight-driver-behavior-detection) | Edge AI / computer vision | Subject-disjoint benchmark of lightweight detectors for driver warning cues on RGB and NIR video. Apache-2.0. |
+| [manar-search-rescue-drone](https://github.com/IamOumarIbrahim/manar-search-rescue-drone) | Robotics / sensor fusion | Search-and-rescue drone combining RGB/IR/thermal vision, FMCW radar, passive RF, and audio. Proprietary license. |
+| [macroblock-visual-automation](https://github.com/IamOumarIbrahim/macroblock-visual-automation) | Desktop automation | Scratch-style Windows automation with a mandatory global abort hotkey. MIT. |
+| [class-watcher-uos](https://github.com/IamOumarIbrahim/class-watcher-uos) | Student utility | Course-seat monitor for University of Sharjah registration with phone, desktop, and email alerts. |
 
-## Technical Stack
+## Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/GNU_Octave-079101?style=flat-square&logo=gnuoctave&logoColor=white" alt="GNU Octave" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Qt_PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt / PySide6" />
-  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" alt="Tkinter" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+- **Languages:** Python, C++, TypeScript
+- **ML and vision:** PyTorch, Ultralytics YOLO, D-FINE, RT-DETR, OpenCV, NumPy, Mamba state-space models
+- **Desktop:** PySide6, Tkinter
 
----
-
-If you are working on edge AI, radar perception, or applied signal processing, feel free to [connect on LinkedIn](https://www.linkedin.com/in/oumarmamounibrahim).
+If you work on edge AI, radar perception, or applied signal processing, [connect on LinkedIn](https://www.linkedin.com/in/oumarmamounibrahim).
