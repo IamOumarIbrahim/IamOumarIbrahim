@@ -10,6 +10,16 @@ Senior computer engineering student at the University of Sharjah (3.91 CGPA). I 
 - **Driver monitoring.** A subject-disjoint benchmark of lightweight detectors on RGB and near-infrared video. **Conditionally accepted at CAISAIS 2026**; revision in progress.
 - **MANAR.** A supervised-autonomy search-and-rescue drone. The C++ control core and edge person detector are built; temporal multisensor fusion is the next milestone.
 
+## Free tools you can download
+
+| Tool | What it does |
+| --- | --- |
+| [Peripheral Control](https://github.com/IamOumarIbrahim/open-peripheral-control) | A small, free app for Razer mice and keyboards. Use it instead of Razer Synapse. |
+| [Pinterest Mass Downloader](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui) | Download many Pinterest pictures, videos and GIFs, and keep only the ones that look like your picture. |
+| [Macroblock](https://github.com/IamOumarIbrahim/macroblock-visual-automation) | Automate Windows by snapping blocks together, like Scratch. |
+| [Demotive](https://github.com/IamOumarIbrahim/Demotive) | Make clean demo videos and GIFs of your desktop app from a short script. |
+| [GitHub News](https://github.com/IamOumarIbrahim/githubnews) | Shows the 3 new GitHub repos that grow fastest each day. |
+
 ## Selected projects
 
 | Project | Area | What it is |
