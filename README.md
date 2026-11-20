@@ -2,17 +2,17 @@
 
 ## Open-Source Tools
 
-| What I need to do is |
-| --- | 
-| [Find images with the same colors as some image(s)](https://github.com/IamOumarIbrahim/pin-palette) | 
-| [Automatically finish the discord quests](https://github.com/IamOumarIbrahim/discord-quest-simulator) | 
-| [Download a lot of pictures from pinterest](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui) | 
-| [Extract 3D models from a meshy profile](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor) | 
-| [Download torrented TV shows and save it on another device](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer) | 
-| [Make beautiful video tutorials of a python app](https://github.com/IamOumarIbrahim/Demotive) | 
-| [Download course resources automatically from BlackBoard](https://github.com/IamOumarIbrahim/blackboard-api) |
-| [Make automation scripts using simple blocks](https://github.com/IamOumarIbrahim/macroblock-visual-automation) |
-| [Register into university classes using a watcher](https://github.com/IamOumarIbrahim/class-watcher-uos) | 
+| What I need to do is | Repo |
+| --- | --- |
+| Find images with the same colors as some image(s) | [Link](https://github.com/IamOumarIbrahim/pin-palette) |
+| Automatically finish discord quests | [Link](https://github.com/IamOumarIbrahim/discord-quest-simulator) |
+| Download many pictures from pinterest | [Link](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui) |
+| Extract 3D models from a meshy profile | [Link](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor) |
+| Download torrented TV shows automatically and transfer it | [Link](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer) |
+| Make beautiful video tutorials of a python app | [Link](https://github.com/IamOumarIbrahim/Demotive) |
+| Download course resources automatically from BlackBoard | [Link](https://github.com/IamOumarIbrahim/blackboard-api) |
+| Make automation scripts using simple blocks | [Link](https://github.com/IamOumarIbrahim/macroblock-visual-automation) |
+| Register into university classes using a watcher | [Link](https://github.com/IamOumarIbrahim/class-watcher-uos) |
 
 ## Stack
 
