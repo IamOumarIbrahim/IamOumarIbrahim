@@ -16,7 +16,7 @@
 
 ## Research
 
-| Conference | Repo | Status |
+| Conference |  | Status |
 | --- | --- | --- |
 | International Conference on Sustainable Energy and Power Systems (SEPS 2026) | [Link](https://github.com/IamOumarIbrahim/rooftop-scanning) | Published |
 | International Conference on Signal Processing & Information Security (ICSPIS 2026) | [Link](https://github.com/IamOumarIbrahim/multi-modal-detection) | Published |
