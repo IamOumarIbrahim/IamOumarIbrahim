@@ -2,7 +2,7 @@
 
 ## Tools
  
-|  | What I need to do is | Repo |
+
 | --- | --- | --- |
 | Media | Download torrented TV shows automatically and transfer them | [Link](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer) |
 |  | Download many pictures from pinterest | [Link](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui) |
@@ -16,7 +16,7 @@
 
 ## Research
 
-| Conference | Repo | Status |
+
 | --- | --- | --- |
 | International Conference on Sustainable Energy and Power Systems (SEPS 2026) | [Link](https://github.com/IamOumarIbrahim/rooftop-scanning) | Published |
 | International Conference on Signal Processing & Information Security (ICSPIS 2026) | [Link](https://github.com/IamOumarIbrahim/multi-modal-detection) | Published |
