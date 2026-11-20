@@ -1,8 +1,8 @@
 # Oumar Mamoun Ibrahim
 
-## Open-Source Tools
-
-| Domain | What I need to do is | Repo |
+## Tools
+ 
+|  | What I need to do is | Repo |
 | --- | --- | --- |
 | Media | Download torrented TV shows automatically and transfer them | [Link](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer) |
 |  | Download many pictures from pinterest | [Link](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui) |
@@ -14,7 +14,7 @@
 | University | Download course resources automatically from BlackBoard | [Link](https://github.com/IamOumarIbrahim/blackboard-api) |
 |  | Register into university classes using a watcher | [Link](https://github.com/IamOumarIbrahim/class-watcher-uos) |
 
-## Research Work
+## Research
 
 | Conference | Repo | Status |
 | --- | --- | --- |
