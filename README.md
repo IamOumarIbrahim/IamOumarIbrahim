@@ -16,13 +16,13 @@
 
 ## Research
 
-| Conference |  | Status |
+| Status | Conference |  |
 | --- | --- | --- |
-| International Conference on Sustainable Energy and Power Systems (SEPS 2026) | [Link](https://github.com/IamOumarIbrahim/rooftop-scanning) | Published |
-| International Conference on Signal Processing & Information Security (ICSPIS 2026) | [Link](https://github.com/IamOumarIbrahim/multi-modal-detection) | Published |
-| International Conference on Artificial Intelligence Science and Applications in Industry and Society (CAISAIS 2026) | [Link](https://github.com/IamOumarIbrahim/lightweight-driver-behavior-detection) | Accepted |
-| International Conference on AI-Driven Smart Systems and Ubiquitous Computing (ICAUC 2027) | [Link](https://github.com/IamOumarIbrahim/pruning-missed-detection) | Accepted |
-| IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2026) | [Link](https://github.com/IamOumarIbrahim/ieee-aiot) | Accepted |
+| Published | International Conference on Sustainable Energy and Power Systems (SEPS 2026) | [Link](https://github.com/IamOumarIbrahim/rooftop-scanning) |
+| Published | International Conference on Signal Processing & Information Security (ICSPIS 2026) | [Link](https://github.com/IamOumarIbrahim/multi-modal-detection) |
+| Accepted | International Conference on Artificial Intelligence Science and Applications in Industry and Society (CAISAIS 2026) | [Link](https://github.com/IamOumarIbrahim/lightweight-driver-behavior-detection) |
+| Accepted | International Conference on AI-Driven Smart Systems and Ubiquitous Computing (ICAUC 2027) | [Link](https://github.com/IamOumarIbrahim/pruning-missed-detection) |
+| Accepted | IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2026) | [Link](https://github.com/IamOumarIbrahim/ieee-aiot) |
 
 
 ## Stack
