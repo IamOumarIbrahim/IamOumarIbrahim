@@ -1,39 +1,26 @@
 # Oumar Mamoun Ibrahim
 
-Senior computer engineering student at the University of Sharjah (3.91 CGPA). I build lightweight, multi-sensor perception for edge devices and test it on data the model has never seen.
+## Open-Source Tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumarmamounibrahim) [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--0312--1605-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0312-1605)
-
-## Research
-
-- **Aerial search and rescue.** RGB and thermal person detection for UAVs, with causal temporal post-processing to reduce false alerts. **Accepted at ICSPIS 2026** (Dubai, 10–12 November).
-- **Driver monitoring.** A subject-disjoint benchmark of lightweight detectors on RGB and near-infrared video. **Conditionally accepted at CAISAIS 2026**; revision in progress.
-- **MANAR.** A supervised-autonomy search-and-rescue drone. The C++ control core and edge person detector are built; temporal multisensor fusion is the next milestone.
-
-## Free tools you can download
-
-| Tool | What it does |
-| --- | --- |
-| [Peripheral Control](https://github.com/IamOumarIbrahim/open-peripheral-control) | A small, free app for Razer mice and keyboards. Use it instead of Razer Synapse. |
-| [Pinterest Mass Downloader](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui) | Download many Pinterest pictures, videos and GIFs, and keep only the ones that look like your picture. |
-| [Macroblock](https://github.com/IamOumarIbrahim/macroblock-visual-automation) | Automate Windows by snapping blocks together, like Scratch. |
-| [Demotive](https://github.com/IamOumarIbrahim/Demotive) | Make clean demo videos and GIFs of your desktop app from a short script. |
-| [GitHub News](https://github.com/IamOumarIbrahim/githubnews) | Shows the 3 new GitHub repos that grow fastest each day. |
-
-## Selected projects
-
-| Project | Area | What it is |
-| --- | --- | --- |
-| [multi-modal-detection](https://github.com/IamOumarIbrahim/multi-modal-detection) | Edge AI / UAV perception | RGB and thermal person detection with temporal post-processing for aerial search and rescue. Apache-2.0. |
-| [lightweight-driver-behavior-detection](https://github.com/IamOumarIbrahim/lightweight-driver-behavior-detection) | Edge AI / computer vision | Subject-disjoint benchmark of lightweight detectors for driver warning cues on RGB and NIR video. Apache-2.0. |
-| [manar-search-rescue-drone](https://github.com/IamOumarIbrahim/manar-search-rescue-drone) | Robotics / sensor fusion | Search-and-rescue drone combining RGB/IR/thermal vision, FMCW radar, passive RF, and audio. Proprietary license. |
-| [macroblock-visual-automation](https://github.com/IamOumarIbrahim/macroblock-visual-automation) | Desktop automation | Scratch-style Windows automation with a mandatory global abort hotkey. MIT. |
-| [class-watcher-uos](https://github.com/IamOumarIbrahim/class-watcher-uos) | Student utility | Course-seat monitor for University of Sharjah registration with phone, desktop, and email alerts. |
+| What I need to do is |
+| --- | 
+| [Find images with the same colors as some image(s)](https://github.com/IamOumarIbrahim/pin-palette) | 
+| [Automatically finish the discord quests](https://github.com/IamOumarIbrahim/discord-quest-simulator) | 
+| [Download a lot of pictures from pinterest](https://github.com/IamOumarIbrahim/pinterest-mass-downloader-gui) | 
+| [Extract 3D models from a meshy profile](https://github.com/IamOumarIbrahim/meshydownloader-glb-extractor) | 
+| [Download torrented TV shows and save it on another device](https://github.com/IamOumarIbrahim/downloadcc-vlc-streamer) | 
+| [Make beautiful video tutorials of a python app](https://github.com/IamOumarIbrahim/Demotive) | 
+| [Download course resources automatically from BlackBoard](https://github.com/IamOumarIbrahim/blackboard-api) |
+| [Make automation scripts using simple blocks](https://github.com/IamOumarIbrahim/macroblock-visual-automation) |
+| [Register into university classes using a watcher](https://github.com/IamOumarIbrahim/class-watcher-uos) | 
 
 ## Stack
 
-- **Languages:** Python, C++, TypeScript
-- **ML and vision:** PyTorch, Ultralytics YOLO, D-FINE, RT-DETR, OpenCV, NumPy, Mamba state-space models
-- **Desktop:** PySide6, Tkinter
+- OS: Linux (Cachy-OS/Arch) + Windows 11
+- Languages: Python, C++, MASM, MATLAB, Bash
 
-If you work on edge AI, radar perception, or applied signal processing, [connect on LinkedIn](https://www.linkedin.com/in/oumarmamounibrahim).
+## About Me
+
+Computer Engineer @ UoS | IEEE Researcher in Image and Signal Processing
+
+[connect on LinkedIn](https://www.linkedin.com/in/oumarmamounibrahim). [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumarmamounibrahim) [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--0312--1605-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0312-1605)
